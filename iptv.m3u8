@@ -4,9 +4,7 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 #EXTINF:-1,tvg-id="上海第一财经" tvg-name="第一财经" tvg-logo="https://epg.112114.xyz/logo/第一财经.png" group-title="财经",第一财经「高清」
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
 #EXTINF:-1,tvg-id="上海第一财经" tvg-name="第一财经" tvg-logo="https://epg.112114.xyz/logo/第一财经.png" group-title="财经",第一财经「1080P」
-http://lu1.cc/itv/php/bst5g.php?id=dycj
-#EXTINF:-1,tvg-id="上海第一财经" tvg-name="第一财经" tvg-logo="https://epg.112114.xyz/logo/第一财经.png" group-title="财经",第一财经「备用」
-http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/dycjhd/4000000/mnf.m3u8
+http://lu1.cc/itv/php/bst5g.php?id=dycj http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/dycjhd/4000000/mnf.m3u8
 #EXTINF:-1,tvg-id="点掌财经" tvg-name="点掌财经" tvg-logo="https://epg.112114.xyz/logo/点掌财经.png" group-title="财经",点掌财经
 http://cclive.aniu.tv/live/anzb.m3u8
 #EXTINF:-1,tvg-id="半岛新闻" tvg-name="半岛新闻" tvg-logo="https://epg.112114.xyz/logo/半岛新闻().png" group-title="精选",半岛新闻 (1080p)

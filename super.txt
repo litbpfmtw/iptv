@@ -1,6 +1,5 @@
 🇨🇳［财经］,#genre# 
 第一财经,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/TVOD/88888893/224/3221226966/index.m3u8?/PLTV/.smil#http://lu1.cc/itv/php/bst5g.php?id=dycj,tvmao-diyicaijing,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/TVOD/88888893/224/3221226966/index.m3u8?/PLTV/.smil,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/TVOD/88888893/224/3221226966/index.m3u8?/PLTV/.smil
-点掌财经,http://cclive.aniu.tv/live/anzb.m3u8,tvmao-dianzhangcaijing,,
 🇨🇳［精选］,#genre# 
 BLOOMBERG HT (720P) [NOT 24/7],https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8,tvmao-bloomberght(),,
 BLOOMBERG QUICKTAKE,https://bloomberg-quicktake-1-fi.samsung.wurl.com/manifest/playlist.m3u8,tvmao-bloombergquicktake,,
@@ -393,3 +392,11 @@ TVB星河频道,http://line.premiumpowers.net:80/Manuel/1234567/941620,tvmao-tvb
 天映频道,http://line.premiumpowers.net:80/Manuel/1234567/941618,tvmao-tianying,,
 卫视中文台,http://line.premiumpowers.net:80/Manuel/1234567/941624,tvmao-weishizhongwentai,,
 亚洲旅游台,http://line.premiumpowers.net:80/Manuel/1234567/941640,tvmao-yazhoulüyoutai,,
+🇨🇳［体育］,#genre# 
+NBA TV,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6693,tvmao-nbatv,,
+SKI TV 「滑雪」,https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8,tvmao-skitv「huaxue」,,
+爱尔达体育1台,http://198.16.64.10:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e#http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745,tvmao-aierdatiyu1tai,,
+爱尔达体育2台,http://198.16.64.10:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0,tvmao-aierdatiyu2tai,,
+广东体育,http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8#http://xjayrf.eatuo.com:9901/tsfile/live/1014_1.m3u8#http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8,tvmao-guangdongtiyu,,
+咪咕·体育,http://39.137.49.76:8080/TVOD/88888888/224/3221226235/index.m3u8??/PLTV/.smil#http://39.135.134.67/000000001000/3000000001000028638/index.m3u8#http://39.137.49.76:8080/TVOD/88888888/224/3221226241/index.m3u8??/PLTV/.smil,tvmao-migu·tiyu,http://39.137.49.76:8080/TVOD/88888888/224/3221226235/index.m3u8??/PLTV/.smil,http://39.137.49.76:8080/TVOD/88888888/224/3221226235/index.m3u8??/PLTV/.smil
+五星体育,http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8#http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8#http://125.74.5.39/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8#http://112.25.48.69/live/program/live/ssty/4000000/mnf.m3u8,tvmao-wuxingtiyu,,

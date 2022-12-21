@@ -1,5 +1,7 @@
 🇨🇳［财经］,#genre# 
-第一财经,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/TVOD/88888893/224/3221226966/index.m3u8?/PLTV/.smil#http://lu1.cc/itv/php/bst5g.php?id=dycj,tvmao-diyicaijing,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/TVOD/88888893/224/3221226966/index.m3u8?/PLTV/.smil,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/TVOD/88888893/224/3221226966/index.m3u8?/PLTV/.smil
+第一财经,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
+第一财经,http://lu1.cc/itv/php/bst5g.php?id=dycj
+点掌财经,http://cclive.aniu.tv/live/anzb.m3u8
 🇨🇳［精选］,#genre# 
 BLOOMBERG HT (720P) [NOT 24/7],https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8,tvmao-bloomberght(),,
 BLOOMBERG QUICKTAKE,https://bloomberg-quicktake-1-fi.samsung.wurl.com/manifest/playlist.m3u8,tvmao-bloombergquicktake,,

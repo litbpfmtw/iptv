@@ -1,0 +1,9 @@
+第一财经,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/TVOD/88888893/224/3221226966/index.m3u8?/PLTV/.smil#http://lu1.cc/itv/php/bst5g.php?id=dycj#http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/dycjhd/4000000/mnf.m3u8,tvmao-diyicaijing,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/TVOD/88888893/224/3221226966/index.m3u8?/PLTV/.smil,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/TVOD/88888893/224/3221226966/index.m3u8?/PLTV/.smil
+点掌财经,http://cclive.aniu.tv/live/anzb.m3u8,tvmao-dianzhangcaijing,,
+半岛新闻 (1080P),https://live-hls-web-aje.getaj.net/AJE/01.m3u8,tvmao-bandaoxinwen(),,
+CNN USA,https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8#https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8#https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8#https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8,tvmao-cnnusa,,
+BLOOMBERG TV,https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8#https://bloomberg-bloomberg-1-fi.samsung.wurl.com/manifest/playlist.m3u8,tvmao-bloombergtv,,
+BLOOMBERGTV,https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8,tvmao-bloombergtv,,
+BLOOMBERG HT,https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8,tvmao-bloomberght,,
+BLOOMBERG TV ASIA,http://210.210.155.37/dr9445/h/h03/index.m3u8,tvmao-bloombergtvasia,,
+BLOOMBERG QUICKTAKE,https://bloomberg-quicktake-1-fi.samsung.wurl.com/manifest/playlist.m3u8,tvmao-bloombergquicktake,,

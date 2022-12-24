@@ -6,7 +6,7 @@ BLOOMBERG HT (720P) [NOT 24/7],https://tv.ensonhaber.com/tv/tr/bloomberght/index
 BLOOMBERG QUICKTAKE,https://bloomberg-quicktake-1-fi.samsung.wurl.com/manifest/playlist.m3u8,tvmao-bloombergquicktake,,
 BLOOMBERG TV ASIA (576P),http://210.210.155.37/dr9445/h/h03/index.m3u8,tvmao-bloombergtvasia(),,
 BLOOMBERG TV US (1080P),https://bloomberg-bloomberg-1-fi.samsung.wurl.com/manifest/playlist.m3u8,tvmao-bloombergtvus(),,
-CINEMAX,http://pull-l3-cny.douyincdn.com/live/af25e1a3f0fff1e8ea22c55a0c9352f0.m3u8,tvmao-cinemax,,
+CINEMAX,http://line.premiumpowers.net:80/Manuel/1234567/941659,,
 CNN USA,https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8#https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8#https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8#https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8,tvmao-cnnusa,,
 HBO,http://line.premiumpowers.net:80/Manuel/1234567/941648#http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403,tvming-HBO
 HBO 2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8,tvming-NULL
@@ -286,7 +286,7 @@ FOX SOCCER PLUS,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418210,tvmao-foxs
 FOX SOUL,http://fox-foxsoul-roku.amagi.tv/playlist.m3u8,tvmao-foxsoul,,
 FOX SPORTS 1,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/488005,tvmao-foxsports1,,
 FOX SPORTS 2,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418179,tvmao-foxsports2,,
-HISTORY,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/488026,tvmao-history,,
+HISTORY,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/488026#http://line.premiumpowers.net:80/Manuel/1234567/941661,tvming-NULL
 IN WILD「自然」,https://inwild-samsungau.amagi.tv/playlist.m3u8,tvmao-inwild「ziran」,,
 MOVIEKINGDOM,https://a.jsrdn.com/broadcast/e9b4093a41/%2B0000/high/c.m3u8,tvmao-moviekingdom,,
 MOVIESPHERE,https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8,tvmao-moviesphere,,

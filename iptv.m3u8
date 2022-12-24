@@ -37,6 +37,10 @@ http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 http://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png",TVBS新闻台
 http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台",TVBS新闻台
+http://line.premiumpowers.net:80/Manuel/1234567/941622
+#EXTINF:-1 group-title="港澳台",TVBS亚洲台
+http://line.premiumpowers.net:80/Manuel/1234567/941621
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/TVBS.png",TVBS亚洲
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/TVBS.png",TVBS亚洲
@@ -731,8 +735,6 @@ https://bloomberg-quicktake-1-fi.samsung.wurl.com/manifest/playlist.m3u8
 http://210.210.155.37/dr9445/h/h03/index.m3u8
 #EXTINF:-1 group-title="精选" tvg-logo="https://epg.112114.xyz/logo/BLOOMBERGTV.png",Bloomberg TV US (1080p)
 https://bloomberg-bloomberg-1-fi.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="精选" tvg-logo="https://epg.112114.xyz/logo/CINEMAX.png",CINEMAX
-http://pull-l3-cny.douyincdn.com/live/af25e1a3f0fff1e8ea22c55a0c9352f0.m3u8
 #EXTINF:-1 group-title="精选" tvg-logo="https://epg.112114.xyz/logo/CNN.png",CNN USA (360p)
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
 #EXTINF:-1 group-title="精选" tvg-logo="https://epg.112114.xyz/logo/CNN.png",CNN USA (360p)
@@ -741,14 +743,30 @@ https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
 #EXTINF:-1 group-title="精选" tvg-logo="https://epg.112114.xyz/logo/CNN.png",CNN USA (720p)
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="精选" tvg-logo="https://epg.112114.xyz/logo/HBO.png",HBO HD
-http://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
-#EXTINF:-1 group-title="精选" tvg-logo="https://epg.112114.xyz/logo/HBO.png",HBO HD
-https://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
-#EXTINF:-1 group-title="精选" tvg-logo="https://epg.112114.xyz/logo/HBO.png",HBO家庭影院
-http://pull-l3-cny.douyincdn.com/live/1279e1fd458348b32fd60381b1017c09.m3u8
-#EXTINF:-1 group-title="精选" tvg-logo="https://epg.112114.xyz/logo/HBO.png",HBO强档影院
-http://pull-l3-cny.douyincdn.com/live/162f0111fdd134e929d72640e6c4ea56.m3u8
+#EXTINF:-1 group-title="精选" tvg-logo="https://epg.112114.xyz/logo/CINEMAX.png",CINEMAX
+http://pull-l3-cny.douyincdn.com/live/af25e1a3f0fff1e8ea22c55a0c9352f0.m3u8
+#EXTINF:-1 group-title="港澳台",HBO
+http://line.premiumpowers.net:80/Manuel/1234567/941648
+#EXTINF:-1 group-title="港澳台",HBO
+http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
+#EXTINF:-1 group-title="港澳台",HBO 2
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",HBO HD
+http://198.16.64.10:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
+#EXTINF:-1 group-title="港澳台",HBO HITS
+http://line.premiumpowers.net:80/Manuel/1234567/941647
+#EXTINF:-1 group-title="港澳台",HBO HITS
+http://50.7.220.74:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
+#EXTINF:-1 group-title="港澳台",HBO Signature
+http://line.premiumpowers.net:80/Manuel/1234567/941645
+#EXTINF:-1 group-title="港澳台",HBO Signature
+http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+#EXTINF:-1 group-title="港澳台",HBO Signature
+http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
+#EXTINF:-1 group-title="港澳台",HBO Family
+http://line.premiumpowers.net:80/Manuel/1234567/941646
+#EXTINF:-1 group-title="港澳台",HBO Family
+http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
 #EXTINF:-1 group-title="精选" tvg-logo="https://epg.112114.xyz/logo/NATIONALGEOGRAPHY.png",National Geography
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="精选" tvg-logo="https://epg.112114.xyz/logo/半岛新闻().png",半岛新闻 (1080p)
@@ -1037,10 +1055,6 @@ http://line.premiumpowers.net:80/Manuel/1234567/941565
 http://line.premiumpowers.net:80/Manuel/1234567/941566
 #EXTINF:-1 group-title="新加坡",TRAVELXP
 http://line.premiumpowers.net:80/Manuel/1234567/941662
-#EXTINF:-1 group-title="新加坡",TVBS新闻台
-http://line.premiumpowers.net:80/Manuel/1234567/941622
-#EXTINF:-1 group-title="新加坡",TVBS亚洲台
-http://line.premiumpowers.net:80/Manuel/1234567/941621
 #EXTINF:-1 group-title="新加坡",TVB翡翠台
 http://line.premiumpowers.net:80/Manuel/1234567/941619
 #EXTINF:-1 group-title="新加坡",TVB星河频道

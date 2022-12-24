@@ -8,9 +8,12 @@ BLOOMBERG TV ASIA (576P),http://210.210.155.37/dr9445/h/h03/index.m3u8,tvmao-blo
 BLOOMBERG TV US (1080P),https://bloomberg-bloomberg-1-fi.samsung.wurl.com/manifest/playlist.m3u8,tvmao-bloombergtvus(),,
 CINEMAX,http://pull-l3-cny.douyincdn.com/live/af25e1a3f0fff1e8ea22c55a0c9352f0.m3u8,tvmao-cinemax,,
 CNN USA,https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8#https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8#https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8#https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8,tvmao-cnnusa,,
-HBO HD,http://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8#https://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8,tvmao-hbo,,
-HBO家庭影院,http://pull-l3-cny.douyincdn.com/live/1279e1fd458348b32fd60381b1017c09.m3u8,tvmao-hbojiatingyingyuan,,
-HBO强档影院,http://pull-l3-cny.douyincdn.com/live/162f0111fdd134e929d72640e6c4ea56.m3u8,tvmao-hboqiangdangyingyuan,,
+HBO,http://line.premiumpowers.net:80/Manuel/1234567/941648#http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403,tvming-HBO
+HBO 2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8,tvming-NULL
+HBO HD,http://198.16.64.10:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce,tvming-NULL
+HBO HITS,http://line.premiumpowers.net:80/Manuel/1234567/941647#http://50.7.220.74:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93,tvming-NULL
+HBO SIGNATURE,http://line.premiumpowers.net:80/Manuel/1234567/941645#http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee#http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a,tvming-NULL
+HBO FAMILY,http://line.premiumpowers.net:80/Manuel/1234567/941646#http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3,tvming-NULL
 NATIONAL GEOGRAPHY,https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8,tvmao-nationalgeography,,
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8,tvmao-bandaoxinwen,,
 探索频道HD,http://pull-l3-cny.douyincdn.com/live/34633761735b6c677356a7c551f89888.m3u8,tvmao-tansuopindao,,
@@ -136,7 +139,6 @@ SBS HD,http://pull-l3-cny.douyincdn.com/live/d10b659225b3738937372b8835b94f1c.m3
 THE MOVIE,http://pull-l3-cny.douyincdn.com/live/adb7cf254b46d42d58828f590a6137bf.m3u8,tvmao-themovie,,
 TVB 财经资讯台,https://j3.lhlh.app/mv.m3u8,tvmao-tvbcaijingzixuntai,,
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8#http://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8#http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8#http://line.premiumpowers.net:80/Manuel/1234567/941622,tvming-NULL
-
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8#http://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8,tvmao-tvbsyazhou,,
 澳门葡语,http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8,tvmao-aomenpuyu,,
 澳门卫视,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8,tvmao-aomenweishi,,
@@ -183,7 +185,7 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8#http://38.64.7
 有线直播台,http://pull-l3-cny.douyincdn.com/live/1696778d64f00f3f9c0aefe3b2136ffe.m3u8,tvmao-youxianzhibotai,,
 中天娱乐台,http://pull-l3-cny.douyincdn.com/live/37e4951f0608d79a74ebed4ab2da462a.m3u8,tvmao-zhongtianyuletai,,
 中天综合台,http://pull-l3-cny.douyincdn.com/live/5f26752efeee9e0c53cf6b530640ce60.m3u8,tvmao-zhongtianzonghetai,,
-🇨🇳［港澳台］,#genre# 
+🇨🇳［国际］,#genre# 
 「CA国际」 5AABTV,http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8,tvmao-「ca」5aabeijing,,
 「CA」 CA,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8,tvmao-「ca」ca,,
 「CA」 CANADAONE,http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8,tvmao-「ca」canadaone,,

@@ -135,7 +135,8 @@ NOW新闻台,http://pull-l3-cny.douyincdn.com/live/f49db49809a6d8e96047011ee9160
 SBS HD,http://pull-l3-cny.douyincdn.com/live/d10b659225b3738937372b8835b94f1c.m3u8,tvmao-sbs,,
 THE MOVIE,http://pull-l3-cny.douyincdn.com/live/adb7cf254b46d42d58828f590a6137bf.m3u8,tvmao-themovie,,
 TVB 财经资讯台,https://j3.lhlh.app/mv.m3u8,tvmao-tvbcaijingzixuntai,,
-TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8#http://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8#http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8,tvmao-tvbsxinwentai,,
+TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8#http://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8#http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8#http://line.premiumpowers.net:80/Manuel/1234567/941622,tvming-NULL
+
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8#http://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8,tvmao-tvbsyazhou,,
 澳门葡语,http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8,tvmao-aomenpuyu,,
 澳门卫视,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8,tvmao-aomenweishi,,

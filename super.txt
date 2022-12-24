@@ -7,7 +7,7 @@ BLOOMBERG QUICKTAKE,https://bloomberg-quicktake-1-fi.samsung.wurl.com/manifest/p
 BLOOMBERG TV ASIA (576P),http://210.210.155.37/dr9445/h/h03/index.m3u8,tvmao-bloombergtvasia(),,
 BLOOMBERG TV US (1080P),https://bloomberg-bloomberg-1-fi.samsung.wurl.com/manifest/playlist.m3u8,tvmao-bloombergtvus(),,
 CINEMAX,http://line.premiumpowers.net:80/Manuel/1234567/941659,,
-CNN USA,https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8#https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8#https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8#https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8,tvmao-cnnusa,,
+CNN USA,http://line.premiumpowers.net:80/Manuel/1234567/941690#https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8#https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8#https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8#https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8#https://cnn-cnninternational-1-gb.samsung.wurl.com:443/manifest/playlist_1280x720_3000k.m3u8,tvming-NULL
 HBO,http://line.premiumpowers.net:80/Manuel/1234567/941648#http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403,tvming-HBO
 HBO 2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8,tvming-NULL
 HBO HD,http://198.16.64.10:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce,tvming-NULL
@@ -185,6 +185,7 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8#http://38.64.7
 有线直播台,http://pull-l3-cny.douyincdn.com/live/1696778d64f00f3f9c0aefe3b2136ffe.m3u8,tvmao-youxianzhibotai,,
 中天娱乐台,http://pull-l3-cny.douyincdn.com/live/37e4951f0608d79a74ebed4ab2da462a.m3u8,tvmao-zhongtianyuletai,,
 中天综合台,http://pull-l3-cny.douyincdn.com/live/5f26752efeee9e0c53cf6b530640ce60.m3u8,tvmao-zhongtianzonghetai,,
+中天新闻台,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1671920426/ei/yianY4K3F8e-lu8PwP2xiAg/ip/23.102.184.96/id/_QbRXRnHMVY.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr4---sn-q4flrn7k.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/1892500/mh/Du/mm/44/mn/sn-q4flrn7k/ms/lva/mv/m/mvi/4/pl/18/dover/11/pacing/0/keepalive/yes/fexp/2400137324007246/mt/1671898367/sparams/expireeiipiditagsourcerequiresslratebypasslivesgoapsgovpplaylist_durationmanifest_durationvprvplaylist_type/sig/AOq0QJ8wRAIgCoLFH_qx8_uoLziFay5JfGZpAHOA_ZscxMqyV9P4SjMCIBGxhtviwrOjcs43m0aMJhSNWH7Wo-II0pyFZgt7mFaq/lsparams/hls_chunk_hostinitcwndbpsmhmmmnmsmvmvipl/lsig/AG3C_xAwRQIhAJ81KNaSMHtqAnFmXrUgGL_CKC0FgFJ2teRLUYy4S2ykAiBqu8v4pEAvQWEWbKsntNpb32xFuAWh_Pzj54no0nkmXg%3D%3D/playlist/index.m3u8,tvming-NULL
 🇨🇳［国际］,#genre# 
 「CA国际」 5AABTV,http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8,tvmao-「ca」5aabeijing,,
 「CA」 CA,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8,tvmao-「ca」ca,,

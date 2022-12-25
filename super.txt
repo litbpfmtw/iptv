@@ -16,6 +16,25 @@ NATIONAL GEOGRAPHY,https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil
 探索频道HD,http://pull-l3-cny.douyincdn.com/live/34633761735b6c677356a7c551f89888.m3u8,tvming-NULL
 HISTORY,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/488026#http://line.premiumpowers.net:80/Manuel/1234567/941661,tvming-NULL
 
+🇨🇳［上海］,#genre# 
+第一财经,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/TVOD/88888893/224/3221226966/index.m3u8?/PLTV/.smil#http://lu1.cc/itv/php/bst5g.php?id=dycj#http://[2409:8087:3428:20:500::100f]:6610/TVOD/88888888/224/3221226564/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178?/PLTV/.smil,tvming-CBNHD
+上海纪实人文,http://[2409:8087:3869:8021:1001::e5]:6610/TVOD/88888910/224/3221225609/index.m3u8?fmt=ts2hls?/PLTV/.smil#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001330/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://[2409:8087:3869:8021:1001::e5]:6610/TVOD/88888910/224/3221225655/index.m3u8?/PLTV/.smil#http://[2409:8087:3869:8021:1001::e5]:6610/TVOD/88888910/224/3221225654/index.m3u8?/PLTV/.smil#http://[2409:8087:3428:20:500::100f]:6610/TVOD/88888888/224/3221225946/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178?/PLTV/.smil#http://[2409:8087:3428:20:500::100f]:6610/TVOD/88888888/224/3221227213/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178?/PLTV/.smil#http://[2409:8087:3428:20:500::100f]:6610/TVOD/88888888/224/3221226923/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178?/PLTV/.smil,tvming-NULL
+东方卫视,http://[2409:8087:3428:20:500::100f]:6610/TVOD/88888888/224/3221225828/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178?/PLTV/.smil#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001028/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://[2409:8087:3428:20:500::100f]:6610/TVOD/88888888/224/3221226603/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178?/PLTV/.smil#http://[2409:8087:3428:20:500::100f]:6610/TVOD/88888888/224/3221226560/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178?/PLTV/.smil#http://[2409:8087:3428:20:500::100f]:6610/TVOD/88888888/224/3221227059/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178?/PLTV/.smil#http://[2409:8087:3428:20:500::100f]:6610/TVOD/88888888/224/3221226895/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178?/PLTV/.smil#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://[2409:8087:3869:8021:1001::e5]:6610/TVOD/88888910/224/3221225658/index.m3u8?/PLTV/.smil#http://[2409:8087:3869:8021:1001::e5]:6610/TVOD/88888910/224/3221225489/index.m3u8?fmt=ts2hls?/PLTV/.smil#http://[2409:8087:3869:8021:1001::e5]:6610/TVOD/88888910/224/3221225659/index.m3u8?/PLTV/.smil#http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000064/main.m3u8?IASHttpSessionId=OTT,tvming-SHDongFangTV
+上海新闻综合频道,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xwzhhd/2300000/mnf.m3u8,tvming-NULL
+五星体育,http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8#http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8#http://111.29.9.48:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3,tvming-NULL
+上海全纪实,http://111.20.33.70/TVOD/88888893/224/3221226580/index.m3u8?/PLTV/.smil#http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8,tvming-NULL
+上海外语,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8,tvming-NULL
+上海生活,http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8,tvming-SHFashion
+上海教育,https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8,tvming-NULL
+上海都市,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ylpdhd/4000000/mnf.m3u8,tvming-NULL
+新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8,tvming-XSJHD
+魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8,tvming-NULL
+上海实时路况:卢浦大桥,https://09d6466c00724862f53a5aef6d25952a.livehwc3.cn/live-hw.kksmg.com/live/luzheng1.m3u8,tvming-NULL
+上海实时路况:南北高架共和新路,https://09d6466c00724862f53a5aef6d25952a.livehwc3.cn/live-hw.kksmg.com/live/luzheng4.m3u8,tvming-NULL
+上海实时路况:南北高架延安路高架交汇处,https://09d6466c00724862f53a5aef6d25952a.livehwc3.cn/live-hw.kksmg.com/live/luzheng3.m3u8,tvming-NULL
+上海实时路况:延东立交,https://09d6466c00724862f53a5aef6d25952a.livehwc3.cn/live-hw.kksmg.com/live/luzheng2.m3u8,tvming-NULL
+中国交通,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000438/index.m3u8?IAS,tvming-DuShiJCHD
+
 
 🇨🇳［纪实］,#genre# 
 NATIONAL GEOGRAPHY,https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8,tvming-NULL

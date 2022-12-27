@@ -1019,6 +1019,8 @@ http://198.16.64.10:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=192
 http://line.premiumpowers.net:80/Manuel/1234567/941647
 #EXTINF:-1 group-title="影视",HBO HITS
 http://50.7.220.74:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
+#EXTINF:-1 group-title="影视",HBO HITS
+http://baidu.douyincdn.freetvtv.com/hbohits/index.m3u8?blog.ntnas.top
 #EXTINF:-1 group-title="影视",HBO Signature
 http://line.premiumpowers.net:80/Manuel/1234567/941645
 #EXTINF:-1 group-title="影视",HBO Signature

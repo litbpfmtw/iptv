@@ -32,8 +32,10 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225659/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/上海新闻综合.png" group-title="上海",上海新闻综合频道
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xwzhhd/2300000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="上海",五星体育
-http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海",五星体育
+http://183.207.255.207/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海",五星体育
+http://112.25.48.11/live/program/live/jbtyhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/全纪实.png" group-title="上海",上海全纪实
 http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/上海外语.png" group-title="上海",上海外语
@@ -1914,3 +1916,4 @@ http://moneytoday1.ktcdn.co.kr:1935/mtnlive/720/playlist.m3u8
 http://183.110.27.87/mtnlive/definst/720/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/韩国职业广播.png" group-title="韩国",韩国职业广播
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+

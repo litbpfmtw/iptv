@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="财经",第一财经
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="财经",第一财经
+https://epg.pw/stream/bcda7d0960001158067661d0ff028de463f973ea574199d5287e8b3141b9041a.m3u8
+#EXTINF:-1 group-title="财经",东方财经
+http://tt-live.bestvcdn.com.cn/live/program/live/dfcjhd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="财经",点掌财经
 http://cclive.aniu.tv/live/anzb.m3u8
 #EXTINF:-1 group-title="财经",Bloomberg TV
@@ -22,11 +26,13 @@ https://bloomberg-quicktake-1-fi.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="财经",Bloomberg TV Asia
 http://210.210.155.37/dr9445/h/h03/index.m3u8
 #EXTINF:-1 group-title="上海",第一财经
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="上海",第一财经
+https://epg.pw/stream/bcda7d0960001158067661d0ff028de463f973ea574199d5287e8b3141b9041a.m3u8
 #EXTINF:-1 group-title="上海",东方财经
 http://tt-live.bestvcdn.com.cn/live/program/live/dfcjhd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="上海",上海纪实人文
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海",上海纪实人文
 https://epg.pw/stream/7e442f12ae86120f622525977d3b42506b72ac9f2b7eddaac53c7bae6b0a86ee.m3u8
 #EXTINF:-1 group-title="上海",上海纪实人文
@@ -90,31 +96,31 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
 #EXTINF:-1 group-title="上海",东方卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225659/index.m3u8
 #EXTINF:-1 group-title="上海",上海新闻综合频道
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="上海",上海新闻综合频道
 http://tt-live.bestvcdn.com.cn/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="上海",五星体育
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="上海",五星体育
 http://tt-live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="上海",东方影视
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dfyshd8m/8000000/mnf.m3u8
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dfyshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="上海",东方影视
 http://tt-live.bestvcdn.com.cn/live/program/live/dfyshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="上海",上海全纪实
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/qjshd8m/8000000/mnf.m3u8
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/qjshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="上海",上海全纪实
 http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海",上海全纪实
 http://tt-live.bestvcdn.com.cn/live/program/live/qjshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="上海",上海外语
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/icshd8m/8000000/mnf.m3u8
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/icshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="上海",上海外语
 http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海",上海外语
 http://tt-live.bestvcdn.com.cn/live/program/live/icshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="上海",上海都市
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dshd8m/8000000/mnf.m3u8
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="上海",上海都市
 http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海",上海都市
@@ -122,16 +128,15 @@ http://tt-live.bestvcdn.com.cn/live/program/live/dshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="上海",上海教育
 https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8
 #EXTINF:-1 group-title="上海",上海教育
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/setvhd/8000000/mnf.m3u8
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/setvhd/8000000/mnf.m3u8
 #EXTINF:-1 group-title="上海",新视觉
 http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海",魅力足球
 http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海",七彩戏剧 8M
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/qcxjhd8m/8000000/mnf.m3u8
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/qcxjhd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="上海",生活时尚 8M
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/shss8m/8000000/mnf.m3u8
-
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/shss8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="纪实",NATIONAL GEOGRAPHIC
 http://50.7.220.74:8278/natgeohd_twn/playlist.m3u8?ct=17874&tid=ma1f0b9808d5014467661&tsum=73dfb91284f5b1358251546e6f03da3d
 #EXTINF:-1 group-title="纪实",NATIONAL GEOGRAPHIC
@@ -147,23 +152,25 @@ http://line.premiumpowers.net:80/Manuel/1234567/941664
 #EXTINF:-1 group-title="纪实",NATIONAL GEOGRAPHIC WILD
 http://198.16.64.10:8278/natgeowild_twn/playlist.m3u8?tid=ME7E6122598161225981&ct=19225&tsum=c88897efa30d472128421acf3d4b62c8
 #EXTINF:-1 group-title="纪实",探索频道HD
-http://pull-l3-cny.douyincdn.com/live/34633761735b6c677356a7c551f89888.m3u8
-#EXTINF:-1 group-title="纪实",探索频道HD
 http://pull-l3-cny.douyincdn.com/third/stream-34633761735b6c677356a7c551f89888.m3u8
+#EXTINF:-1 group-title="纪实",动物星球
+http://pull-l3-cny.douyincdn.com/third/stream-eac374df3c06e8985d587224a056f483.m3u8
 #EXTINF:-1 group-title="纪实",HISTORY
 http://line.premiumpowers.net:80/Manuel/1234567/941661
 #EXTINF:-1 group-title="纪实",求索科学
+http://39.135.7.132:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
+#EXTINF:-1 group-title="纪实",求索科学
 http://[2409:8087:4402:20:1:1216:401:46]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
-#EXTINF:-1 group-title="纪实",求索生活
-http://[2409:8087:4402:20:1:1216:401:43]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
+#EXTINF:-1 group-title="纪实",求索纪录
+http://39.135.7.132:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
 #EXTINF:-1 group-title="纪实",求索纪录
 http://111.11.123.33:6610/000000001000/6000000002000003382/1.m3u8?Contentid=6000000002000003382&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 group-title="纪实",求索生活
+http://[2409:8087:4402:20:1:1216:401:43]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
 #EXTINF:-1 group-title="纪实",求索动物
 http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
 #EXTINF:-1 group-title="纪实",精品纪录
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225710/2/index.m3u8
-
-#EXTM3U
 #EXTINF:-1 group-title="央视",CCTV1
 http://117.169.120.244:8080/wh7f454c46tw2520989601_203106496/hwrr.jx.chinamobile.com/PLTV/88888910/224/3221225618/index.m3u8?icpid=88888910&%3BRTS=1648965019&%3Bfrom=79102&%3Bocs=2_117.169.120.241_8080&%3Bhms_devid=1402&%3Bonline=1648965019&%3Bvqe=3
 #EXTINF:-1 group-title="央视",CCTV1
@@ -548,8 +555,6 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 http://39.135.138.58:18890/PLTV/88888888/224/3221225693/index.m3u8
 #EXTINF:-1 group-title="央视",新华中文
 http://39.135.138.60:18890/PLTV/88888888/224/3221225694/index.m3u8
-
-
 #EXTINF:-1 group-title="卫视",东方卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
 #EXTINF:-1 group-title="卫视",东方卫视
@@ -858,8 +863,6 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225734/index.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225690/index.m3u8
 #EXTINF:-1 group-title="卫视",青海安多卫视
 http://39.135.138.58:18890/PLTV/88888888/224/3221226195/index.m3u8
-
-
 #EXTINF:-1 group-title="运动",CCTV-5高清
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 #EXTINF:-1 group-title="运动",CCTV-5高清
@@ -925,182 +928,174 @@ http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:bf:85:ce&stream=35891&e
 #EXTINF:-1 group-title="运动",Ziggo Sport 4K
 http://live.iptvtotaal.com:8000/awpreneniptv/09HZaVeOmh/20560
 
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CINEMAX.png" group-title="影视",CINEMAX
-http://line.premiumpowers.net:80/Manuel/1234567/941659
-#EXTINF:-1 group-title="影视",CINEMAX
-http://line.premiumpowers.net:80/Manuel/1234567/941659
-#EXTINF:-1 group-title="影视",CINEMAX TW
-http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?ct=17874&tid=mf18038aaba6311485855&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1
+#EXTINF:-1 group-title="影视",Animax
+http://line.premiumpowers.net:80/Manuel/1234567/941676
+#EXTINF:-1 group-title="影视",Animax
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="影视",AXN
+http://pull-l3-cny.douyincdn.com/third/stream-304b8e04a437299311112b7f4902c9dd.m3u8
+#EXTINF:-1 group-title="影视",AXN
+http://line.premiumpowers.net:80/Manuel/1234567/941660
+#EXTINF:-1 group-title="影视",CARTOON NETWORK
+http://line.premiumpowers.net:80/Manuel/1234567/941673
 #EXTINF:-1 group-title="影视",CINEMA WORLD
 http://line.premiumpowers.net:80/Manuel/1234567/941658
-#EXTINF:-1 group-title="影视",HBO HD
+#EXTINF:-1 group-title="影视",Cinemax
+http://pull-l3-cny.douyincdn.com/third/stream-af25e1a3f0fff1e8ea22c55a0c9352f0.m3u8
+#EXTINF:-1 group-title="影视",Cinemax
+http://line.premiumpowers.net:80/Manuel/1234567/941659
+#EXTINF:-1 group-title="影视",CURIOCITY
+http://line.premiumpowers.net:80/Manuel/1234567/941657
+#EXTINF:-1 group-title="影视",DREAMWORK
+http://line.premiumpowers.net:80/Manuel/1234567/941656
+#EXTINF:-1 group-title="影视",HBO
 http://line.premiumpowers.net:80/Manuel/1234567/941648
-#EXTINF:-1 group-title="影视",HBO HD
-http://198.16.64.10:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
-#EXTINF:-1 group-title="影视",HBO HD
-http://pull-l3-cny.douyincdn.com/third/stream-b2478a833f3e8b439b680048fcbf7786.m3u8
+#EXTINF:-1 group-title="影视",HBO 2
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="影视",HBO Family
 http://pull-l3-cny.douyincdn.com/third/stream-1279e1fd458348b32fd60381b1017c09.m3u8
 #EXTINF:-1 group-title="影视",HBO Family
 http://line.premiumpowers.net:80/Manuel/1234567/941646
-#EXTINF:-1 group-title="影视",HBO Family
-http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
+#EXTINF:-1 group-title="影视",HBO HD
+http://pull-l3-cny.douyincdn.com/third/stream-b2478a833f3e8b439b680048fcbf7786.m3u8
 #EXTINF:-1 group-title="影视",HBO HITS
 http://pull-l3-cny.douyincdn.com/third/stream-162f0111fdd134e929d72640e6c4ea56.m3u8
 #EXTINF:-1 group-title="影视",HBO HITS
 http://line.premiumpowers.net:80/Manuel/1234567/941647
 #EXTINF:-1 group-title="影视",HBO HITS
-http://50.7.220.74:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
-#EXTINF:-1 group-title="影视",HBO HITS
 http://baidu.douyincdn.freetvtv.com/hbohits/index.m3u8?blog.ntnas.top
-#EXTINF:-1 group-title="影视",HBO 2
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="影视",HBO Signature
 http://pull-l3-cny.douyincdn.com/third/stream-9bfb4b08fec367ed3850357a853250d5.m3u8
 #EXTINF:-1 group-title="影视",HBO Signature
 http://line.premiumpowers.net:80/Manuel/1234567/941645
-#EXTINF:-1 group-title="影视",HBO Signature
-http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
-#EXTINF:-1 group-title="影视",HBO Signature
-http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
 #EXTINF:-1 group-title="影视",HITS MOVIES
 http://line.premiumpowers.net:80/Manuel/1234567/941577
 #EXTINF:-1 group-title="影视",HITS MOVIES
-http://line.premiumpowers.net:80/Manuel/1234567/941606
-#EXTINF:-1 group-title="影视",HITS MOVIES
 http://line.premiumpowers.net:80/Manuel/1234567/941578
+#EXTINF:-1 group-title="影视",HITS MOVIES
+http://line.premiumpowers.net:80/Manuel/1234567/941606
 #EXTINF:-1 group-title="影视",HITS MOVIES
 http://line.premiumpowers.net:80/Manuel/1234567/941607
 #EXTINF:-1 group-title="影视",PARAMOUNT
 http://line.premiumpowers.net:80/Manuel/1234567/941654
-#EXTINF:-1 group-title="影视",DREAMWORK
-http://line.premiumpowers.net:80/Manuel/1234567/941656
-#EXTINF:-1 group-title="影视",CURIOCITY
-http://line.premiumpowers.net:80/Manuel/1234567/941657
-#EXTINF:-1 group-title="影视",CARTOON NETWORK
-http://line.premiumpowers.net:80/Manuel/1234567/941673
-#EXTINF:-1 group-title="影视",AXN
-http://line.premiumpowers.net:80/Manuel/1234567/941660
-#EXTINF:-1 group-title="影视",Animax
-http://line.premiumpowers.net:80/Manuel/1234567/941676
-#EXTINF:-1 group-title="影视",Animax
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="影视",4K超高清影视
-http://livehkkp.chinamcache.com/live/emdy4k.m3u8
-#EXTINF:-1 group-title="影视",4K影视-1
-http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
-#EXTINF:-1 group-title="影视",4K影视-1
-http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
-#EXTINF:-1 group-title="影视",4K影视-2
-http://111.11.123.37:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/美亚高清电影台.png" group-title="影视",高清电影台
-http://pull-l3-cny.douyincdn.com/live/8ef14dc0eb0f812bfa0a1311d0134f8d.m3u8
-#EXTINF:-1 group-title="影视",好莱坞电影
-http://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
-#EXTINF:-1 group-title="影视",好莱坞电影
-http://pull-l3-cny.douyincdn.com/third/stream-06027cd7cadf310982fe67221578515b.m3u8
-#EXTINF:-1 group-title="影视",好莱坞电影 HD
-https://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
-#EXTINF:-1 group-title="影视",欢笑剧场4K
-http://111.11.123.37:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
-#EXTINF:-1 group-title="影视",超级电影
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225623/2/index.m3u8
-#EXTINF:-1 group-title="影视",芒果欧美
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1
-EXTINF:-1 group-title="影视",美亚电影台
-http://pull-l3-cny.douyincdn.com/third/stream-b16e0049bdda5f54e62d3c9b694d81ff.m3u8
-#EXTINF:-1 group-title="影视",莲花电影台
-http://pull-l3-cny.douyincdn.com/third/stream-f3caad21816e3bfe2210a692387ab040.m3u8
+#EXTINF:-1 group-title="影视",凤凰电影
+https://epg.pw/stream/3faefe9496fcc77a959a89eb0605e8c02f77cdc477845c6c7f2e9dc2a677a70f.m3u8
+#EXTINF:-1 group-title="影视",凤凰电影
+https://epg.pw/stream/0f1d0ac861db75da20b47738aa5bf789d32129acb76481dd281ee09d4b9d33a5.m3u8
+#EXTINF:-1 group-title="影视",龙祥电影
+http://gxfrg007.8800.org:8282/tsfile/live/1048_1.m3u8
+#EXTINF:-1 group-title="影视",中国电影
+http://gxfrg007.8800.org:8282/tsfile/live/1088_1.m3u8
+#EXTINF:-1 group-title="影视",东森电影
+http://gxfrg007.8800.org:8282/tsfile/live/1049_1.m3u8
+#EXTINF:-1 group-title="影视",东森洋片
+http://gxfrg007.8800.org:8282/tsfile/live/1050_1.m3u8
+#EXTINF:-1 group-title="影视",天映经典
+http://gxfrg007.8800.org:8282/tsfile/live/1053_1.m3u8
+#EXTINF:-1 group-title="影视",天映经典
+https://epg.pw/stream/c144b6e78dae226aaf5d3ea400c87707189b5f1ab750e1d1ca5b7e00706dd47d.m3u8
+#EXTINF:-1 group-title="影视",天映经典
+https://epg.pw/stream/87617e79441d46b5917a3bdca13259e4de2d9e11f828a88f1cb1c80d377f76f4.m3u8
 #EXTINF:-1 group-title="影视",纬来电影
 http://pull-l3-cny.douyincdn.com/third/stream-6de7ee8878da79aaf393c0f63081cb0c.m3u8
+#EXTINF:-1 group-title="影视",纬来戏剧
+http://pull-l3-cny.douyincdn.com/third/stream-cf93b19e055f2800058541033c0c4355.m3u8
+#EXTINF:-1 group-title="影视",莲花电影台
+http://pull-l3-cny.douyincdn.com/third/stream-f3caad21816e3bfe2210a692387ab040.m3u8
+#EXTINF:-1 group-title="影视",好莱坞电影
+http://pull-l3-cny.douyincdn.com/third/stream-06027cd7cadf310982fe67221578515b.m3u8
+#EXTINF:-1 group-title="影视",4K超高清影视
+http://livehkkp.chinamcache.com/live/emdy4k.m3u8
+#EXTINF:-1 group-title="影视",4K影视
+http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
+#EXTINF:-1 group-title="影视",芒果欧美
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1
+#EXTINF:-1 group-title="影视",美亚电影
+http://pull-l3-cny.douyincdn.com/third/stream-b16e0049bdda5f54e62d3c9b694d81ff.m3u8
+#EXTINF:-1 group-title="影视",邵氏影院
+http://wtv.weetai.cn/iptv/2022/tyzb09.php?id=4246519
+#EXTINF:-1 group-title="影视",超级电影
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225623/2/index.m3u8
+#EXTINF:-1 group-title="影视",经典电影
+https://epg.pw/stream/eefce8e0f86816528a35facd21205eed32dc39c0563ad0303c121356abb973fc.m3u8
+#EXTINF:-1 group-title="影视",豆瓣高分
+http://epg.112114.xyz/douyu/8770422
+#EXTINF:-1 group-title="影视",贝爷影厅
+http://epg.112114.xyz/douyu/36337
+#EXTINF:-1 group-title="影视",贝爷MAX厅
+http://epg.112114.xyz/douyu/4332
+#EXTINF:-1 group-title="影视",避风港影院
+http://epg.112114.xyz/douyu/9826611
+#EXTINF:-1 group-title="影视",冰冰经典电影
+http://epg.112114.xyz/douyu/74374
+#EXTINF:-1 group-title="影视",吃米滴虫
+http://epg.112114.xyz/douyu/315457
+#EXTINF:-1 group-title="影视",华语电影
+http://epg.112114.xyz/douyu/3928
+#EXTINF:-1 group-title="影视",华语动作电影
+http://epg.112114.xyz/douyu/1504768
+#EXTINF:-1 group-title="影视",可乐电影
+http://epg.112114.xyz/douyu/20415
+#EXTINF:-1 group-title="影视",恐怖经典
+http://epg.112114.xyz/douyu/1165374
+#EXTINF:-1 group-title="影视",刘德华影院
+http://epg.112114.xyz/douyu/2516864
+#EXTINF:-1 group-title="影视",黄渤影院
+http://epg.112114.xyz/douyu/8985415
+#EXTINF:-1 group-title="影视",麓山迷踪
+http://epg.112114.xyz/douyu/4505431
+#EXTINF:-1 group-title="影视",米娅电影
+http://epg.112114.xyz/douyu/6537888
+#EXTINF:-1 group-title="影视",奶虫恐怖电影
+http://epg.112114.xyz/douyu/263824
+#EXTINF:-1 group-title="影视",神乐影片1
+http://epg.112114.xyz/douyu/122402
+#EXTINF:-1 group-title="影视",神乐影片2
+http://epg.112114.xyz/douyu/85894
+#EXTINF:-1 group-title="影视",喜剧经典
+http://epg.112114.xyz/douyu/9650887
 
 
-#EXTINF:-1 group-title="香港",耀才财经
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
-#EXTINF:-1 group-title="香港",耀才财经
-http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
-#EXTINF:-1 group-title="香港",耀才财经
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
-#EXTINF:-1 group-title="香港",耀才财经
-https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 group-title="香港",耀才财经
-https://epg.pw/stream/e408a01f7b272614f886a93badc33430a35d60cfb11a7e7451a4c298abb75e94.m3u8
-#EXTINF:-1 group-title="香港",耀才财经
-https://epg.pw/stream/7c8b7e5cdcccd5e835d101320959c8f745d58144b0cf7f6a8ee1ceecf0378fdc.m3u8
-#EXTINF:-1 group-title="香港",耀才财经
-https://epg.pw/stream/55b6722799bba70107e93534e655bcae6d245c8fd01c77f0eb638d73ebe0b8bb.m3u8
-#EXTINF:-1 group-title="香港",耀才财经
-https://epg.pw/stream/ccb5c44245b94a84bea26271b627662f8ec645477fb6ac10147c9efe71d2018c.m3u8
-#EXTINF:-1 group-title="香港",耀才财经
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 group-title="香港",耀才财经
-https://epg.pw/stream/fb91a27c4988512b6bb1b53adb0abe84f9eb3cbb6f3e8c224838c25a045037b3.ctv
-#EXTINF:-1 group-title="香港",耀才财经
-https://epg.pw/stream/71484b5248d766136708f3d24c7bfbd52836a596e7ec7aadb1adbe1c30bdc530.m3u8
-#EXTINF:-1 group-title="香港",有线财经资讯
-https://epg.pw/stream/99ee0ecc95f30dde072a533a193d10853214343da3e35d301cfcb4e48dd5f70f.m3u8
-#EXTINF:-1 group-title="香港",有线财经资讯
-https://epg.pw/stream/e781596cc6b330d98eb0d37ab7bdba8991506175c39d03a5b05db5370d00408e.ctv
-#EXTINF:-1 group-title="香港",有线财经资讯
-https://epg.pw/stream/d57a778d6f8890be8e7c96c17d45a201c368139653f8c109afd0dd7266b85e5c.m3u8
-#EXTINF:-1 group-title="香港",有线财经资讯
-http://pull-l3-cny.douyincdn.com/third/stream-6cce73798021d977d916afacf1caba36.m3u8
-#EXTINF:-1 group-title="香港",无线财经
-https://epg.pw/stream/71b8c1a7a0889fd27e52076f314f64c8e10454265c485ea6dfbd8634fc2fe2d9.m3u8
-#EXTINF:-1 group-title="香港",无线财经
-https://epg.pw/stream/12c6b111e54b74c828f212e5aacc7a92b7562b627638546a96320436c9855711.ctv
-#EXTINF:-1 group-title="香港",香港国际财经
-https://epg.pw/stream/f2c87ebee8e1f7a1421b5b2ba4a8bda5ddcea7c29eae7a25ee9790cd16c4d64e.m3u8
-#EXTINF:-1 group-title="香港",翡翠
-http://23.237.10.66:16106
-#EXTINF:-1 group-title="香港",翡翠
-https://epg.pw/stream/17125a88d96511a94b382261d9e3825996a41f473aa3c2053425f4696682c1ac.m3u8
-#EXTINF:-1 group-title="香港",翡翠
-https://epg.pw/stream/d042107a04cb78dc7408e20302fe0935ddaa08d8af05c177a35a047b4b925936.m3u8
-#EXTINF:-1 group-title="香港",凤凰香港
-http://120.84.96.73:808/hls/81/index.m3u8
-#EXTINF:-1 group-title="香港",凤凰香港
-https://epg.pw/stream/49377465b592ecb4105c8c5a1877db8dfcbd57e73bdf1b972ea4d1a205444f2d.m3u8
-#EXTINF:-1 group-title="香港",凤凰香港
-https://epg.pw/stream/353dc9294211d91df1f669472b898f214fbd899b682fe31b943a4ffcfd90875b.m3u8
+#EXTINF:-1 group-title="香港",翡翠台
+http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8
+#EXTINF:-1 group-title="香港",翡翠台
+http://23.237.10.66:16106?$1920x1080
+#EXTINF:-1 group-title="香港",翡翠台
+http://23.237.10.66:16410?$1280x720
+#EXTINF:-1 group-title="香港",翡翠台
+https://cdn.hklive.tv/xxxx/81/index.m3u8
+#EXTINF:-1 group-title="香港",翡翠台
+http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 #EXTINF:-1 group-title="香港",凤凰卫视
 https://epg.pw/stream/3f05bc727bbec1f6377ae9f6eeeb5d7139ff8ded6ea2def9a7aa296f40d044b5.m3u8
-#EXTINF:-1 group-title="香港",凤凰中文
-https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
-#EXTINF:-1 group-title="香港",凤凰中文
-https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 group-title="香港",凤凰中文
-http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8
+#EXTINF:-1 group-title="香港",凤凰香港
+https://epg.pw/stream/49377465b592ecb4105c8c5a1877db8dfcbd57e73bdf1b972ea4d1a205444f2d.m3u8
 #EXTINF:-1 group-title="香港",凤凰中文
 http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 group-title="香港",凤凰中文
-http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8
 #EXTINF:-1 group-title="香港",凤凰中文
-https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv2.m3u8
 #EXTINF:-1 group-title="香港",凤凰中文
-http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227222/index.m3u8
 #EXTINF:-1 group-title="香港",凤凰中文
-http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 group-title="香港",凤凰资讯
-https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
-#EXTINF:-1 group-title="香港",凤凰资讯
-http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
-#EXTINF:-1 group-title="香港",凤凰资讯
-http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8
-#EXTINF:-1 group-title="香港",凤凰资讯
-https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
-#EXTINF:-1 group-title="香港",凤凰资讯
-http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8?
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
+#EXTINF:-1 group-title="香港",凤凰中文
+http://111.59.189.40:8445/tsfile/live/1020_1.m3u8?zgangd
+#EXTINF:-1 group-title="香港",凤凰中文
+http://107.151.203.111:2209/135/hk.php?id=fhzw
 #EXTINF:-1 group-title="香港",凤凰资讯
 http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 group-title="香港",凤凰资讯
-http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 #EXTINF:-1 group-title="香港",凤凰资讯
-https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
 #EXTINF:-1 group-title="香港",凤凰资讯
-http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8?zgangd
+http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227226/index.m3u8
 #EXTINF:-1 group-title="香港",凤凰资讯
-http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8
+#EXTINF:-1 group-title="香港",凤凰资讯
+http://107.151.203.111:2209/135/hk.php?id=fhzx
 #EXTINF:-1 group-title="香港",凤凰资讯
 https://epg.pw/stream/37e45dc981dca776ecb0e0d0bb114be671670900e9efd05f790bf111f638dde8.m3u8
 #EXTINF:-1 group-title="香港",凤凰资讯
@@ -1140,23 +1135,47 @@ https://epg.pw/stream/fc4bd18b8c4003e766874cd93cc924f0c8cc79d97d60d1f3eb276a6405
 #EXTINF:-1 group-title="香港",凤凰资讯
 https://epg.pw/stream/ee876b06ee447a595ad8aa10ba6afa3247854d9cbc15d0e7f77db2f240c02da8.m3u8
 #EXTINF:-1 group-title="香港",凤凰资讯
-https://epg.pw/stream/d4624dbcdc71500dc6e352a6774268c1f54b0a19607ad1235002f5a7be23a334.ctv
-#EXTINF:-1 group-title="香港",凤凰资讯
 https://epg.pw/stream/0526c0ee09c287df4d7bfa114226dc773b96a6efb36da48e081b869507335009.m3u8
-#EXTINF:-1 group-title="香港",凤凰资讯
-https://epg.pw/stream/54f53acfdf2567a5388ae623135f160d406ea7c6c50dcc4b2e06ac2f00bb7fbc.m3u8
-#EXTINF:-1 group-title="香港",凤凰资讯
-http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
-#EXTINF:-1 group-title="香港",凤凰资讯
-http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
-#EXTINF:-1 group-title="香港",无线新闻
-https://epg.pw/stream/3141803008aa295d33381f60eb89478e9b18d2f6f4df8f2752b1cf8528d54fed.m3u8
-#EXTINF:-1 group-title="香港",无线新闻
-https://epg.pw/stream/0665377afe3157c7e245a6147e1776bea5b3819c661e2790ecfcba9ec4551717.m3u8
+#EXTINF:-1 group-title="香港",面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 group-title="香港",无线财经
+https://cdn.hklive.tv/xxxx/85/index.m3u8
+#EXTINF:-1 group-title="香港",无线财经
+https://epg.pw/stream/71b8c1a7a0889fd27e52076f314f64c8e10454265c485ea6dfbd8634fc2fe2d9.m3u8
+#EXTINF:-1 group-title="香港",无线财经
+https://epg.pw/stream/12c6b111e54b74c828f212e5aacc7a92b7562b627638546a96320436c9855711.ctv
 #EXTINF:-1 group-title="香港",无线新闻
 https://epg.pw/stream/c927d41afd6d194418a45f7443ef352f2c3cef69e94738abd1856d8c716ce261.ctv
 #EXTINF:-1 group-title="香港",无线新闻
 https://epg.pw/stream/17cd231ecaa64551c900793e3ef920f879669b8d8bec48f66cf617685cbf84c7.ctv
+#EXTINF:-1 group-title="香港",香港国际财经
+https://epg.pw/stream/f2c87ebee8e1f7a1421b5b2ba4a8bda5ddcea7c29eae7a25ee9790cd16c4d64e.m3u8
+#EXTINF:-1 group-title="香港",香港开电视
+https://epg.pw/stream/d3c5a83bc6bf19d547ad895ee6db7d92163f5742521b560e3eebc1a03a9f6a46.m3u8
+#EXTINF:-1 group-title="香港",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="香港",香港卫视
+https://epg.pw/stream/7273c30e3253c3fe7601593a5692e6ae75fc0c3507588eb6e17291bd58cb5359.ctv
+#EXTINF:-1 group-title="香港",香港卫视
+https://epg.pw/stream/720de553966eef29c3d9e499b59539bbbf309ea07895e7e68a2fc00c97430947.ctv
+#EXTINF:-1 group-title="香港",香港卫视文旅
+http://107.151.203.111:2209/135/hk.php?id=hk6
+#EXTINF:-1 group-title="香港",耀才财经
+http://107.151.203.111:2209/135/hk.php?id=bs
+#EXTINF:-1 group-title="香港",耀才财经
+http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+#EXTINF:-1 group-title="香港",耀才财经
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 group-title="香港",耀才财经
+https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 group-title="香港",耀才财经
+https://epg.pw/stream/ccb5c44245b94a84bea26271b627662f8ec645477fb6ac10147c9efe71d2018c.m3u8
+#EXTINF:-1 group-title="香港",耀才财经
+https://epg.pw/stream/fb91a27c4988512b6bb1b53adb0abe84f9eb3cbb6f3e8c224838c25a045037b3.ctv
+#EXTINF:-1 group-title="香港",有线财经资讯
+https://epg.pw/stream/99ee0ecc95f30dde072a533a193d10853214343da3e35d301cfcb4e48dd5f70f.m3u8
+#EXTINF:-1 group-title="香港",有线财经资讯
+https://epg.pw/stream/e781596cc6b330d98eb0d37ab7bdba8991506175c39d03a5b05db5370d00408e.ctv
 #EXTINF:-1 group-title="香港",有线新闻
 http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 #EXTINF:-1 group-title="香港",有线新闻
@@ -1170,378 +1189,137 @@ https://epg.pw/stream/87e4ce48586f43cd1c898f12c5df8371f6ad9c67d49a02c07def68f122
 #EXTINF:-1 group-title="香港",有线新闻
 https://epg.pw/stream/b99051aca74ecd35b325972a7143fbf0d26753cba96ea9be2055b4f343303319.ctv
 #EXTINF:-1 group-title="香港",有线直播新闻
-https://epg.pw/stream/dce30a47a33ef869d07f04179e56f35b0cd5c54b7a425d62e18d9fa5aa0a2310.ctv
-#EXTINF:-1 group-title="香港",有线直播新闻
 https://epg.pw/stream/38825c579f3d95e54531e6d373b08e463e6aa43e48bd69fbbc4897470491821c.m3u8
 #EXTINF:-1 group-title="香港",有线直播新闻
-http://pull-l3-cny.douyincdn.com/third/stream-3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
-#EXTINF:-1 group-title="香港",有线直播新闻
 http://pull-l3-cny.douyincdn.com/third/stream-1696778d64f00f3f9c0aefe3b2136ffe.m3u8
-#EXTINF:-1 group-title="香港",香港开电视
-https://epg.pw/stream/d3c5a83bc6bf19d547ad895ee6db7d92163f5742521b560e3eebc1a03a9f6a46.m3u8
-#EXTINF:-1 group-title="香港",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="香港",香港卫视
-https://epg.pw/stream/8f13d13c59972036bf0ab004a53ac194ba2b593f7dc19a36effc6bc579400868.m3u8
-#EXTINF:-1 group-title="香港",香港卫视
-https://epg.pw/stream/7273c30e3253c3fe7601593a5692e6ae75fc0c3507588eb6e17291bd58cb5359.ctv
-#EXTINF:-1 group-title="香港",香港卫视
-https://epg.pw/stream/720de553966eef29c3d9e499b59539bbbf309ea07895e7e68a2fc00c97430947.ctv
+#EXTINF:-1 group-title="香港",TVB星河频道
+http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
 #EXTINF:-1 group-title="香港",ViuTV
-https://epg.pw/stream/069209d26ee569399284d909f294251c729fd6f11c668be705a5379185651f8f.m3u8
-#EXTINF:-1 group-title="香港",ViuTV
-https://epg.pw/stream/8fa0b8a8a3be00df148bebfc3fcab4aada1e704baf020a57653f3577e11342cc.m3u8
-#EXTINF:-1 group-title="香港",VIUTV
-https://epg.pw/stream/6942ca39c2ce0d033b96ef2569957036ca35bdeada0f5bc36ee927a83385d409.m3u8
-#EXTINF:-1 group-title="香港",经典电影
-https://epg.pw/stream/eefce8e0f86816528a35facd21205eed32dc39c0563ad0303c121356abb973fc.m3u8
-#EXTINF:-1 group-title="香港",天映经典
-https://epg.pw/stream/5f8432eba50c6d85cf3283bbbad1f5527e6f1ce760c1e4d27e7095857ba293d6.m3u8
-#EXTINF:-1 group-title="香港",天映经典
-https://epg.pw/stream/c144b6e78dae226aaf5d3ea400c87707189b5f1ab750e1d1ca5b7e00706dd47d.m3u8
-#EXTINF:-1 group-title="香港",天映经典
-https://epg.pw/stream/87617e79441d46b5917a3bdca13259e4de2d9e11f828a88f1cb1c80d377f76f4.m3u8
+https://cdn.hklive.tv/xxxx/96/index.m3u8
 
-#EXTINF:-1 group-title="澳门",澳门资讯
-https://epg.pw/stream/181c2eff1b804441a3812660bb9571579df0af910a42989af91b9ce918ca0eb5.m3u8
-#EXTINF:-1 group-title="澳门",澳门资讯
-https://epg.pw/stream/3d7fccd319791311070c069b672c3f8fce3417b96a0e9c2355b625d06b9fffd3.m3u8
-#EXTINF:-1 group-title="澳门",澳门资讯
-https://epg.pw/stream/105fb5851847df444c2056a1219cadb25b49699bbdac6c1edc947fbd15282d05.m3u8
-#EXTINF:-1 group-title="澳门",澳门资讯
-https://epg.pw/stream/10370e001c1a45479a019f582e7b180e8bed68dbf603f18c025a4a2b33153df0.m3u8
-#EXTINF:-1 group-title="澳门",澳门资讯
-https://epg.pw/stream/f34121df809cf284ebb126c2d675db88f06909d592e4a0d2934604ccd42093cd.m3u8
-#EXTINF:-1 group-title="澳门",澳门资讯
-https://epg.pw/stream/bffc6062f8c41d3575dfbdd6ff128b5621ab10ec215263090c789110ae9f094e.m3u8
-#EXTINF:-1 group-title="澳门",澳门资讯
-https://epg.pw/stream/5a9d5caa7db9683a61626d751e42cf740a6ef30ba2ebf4c15a5b3154183a1286.m3u8
-#EXTINF:-1 group-title="澳门",澳门资讯
-https://epg.pw/stream/2d363981e2cd22a084e4ead787be206d2732f669d627e3b442e32e56657a2c83.m3u8
-#EXTINF:-1 group-title="澳门",澳门资讯
-https://epg.pw/stream/4abbf9100604e5a432e5bd75666fb857ecc01827b54915c7976a0bb908ab8c20.m3u8
-#EXTINF:-1 group-title="澳门",澳门资讯10
-https://epg.pw/stream/c0419533145018d45684290040b78d7fc4cae2419f8aa3e744c80cc3e541e178.m3u8
-#EXTINF:-1 group-title="澳门",澳门资讯
-https://epg.pw/stream/d477237ba53eeec73eb7aac46d809aaa7b7b60482192c50a55e52f25e4b71794.m3u8
-#EXTINF:-1 group-title="澳门",澳门资讯
-https://epg.pw/stream/6567fa516e81eed9ce9d15cc2b890cdeeee893a60a138203aa5a747728118f10.m3u8
-#EXTINF:-1 group-title="澳门",澳门资讯
-https://epg.pw/stream/2a5b9a2960de5d2699b486efdfd819eefdc064b8ef7807c3f5d4b98fd91ab2b1.m3u8
-#EXTINF:-1 group-title="澳门",澳视高清
-https://epg.pw/stream/17874b157ae059f942f1b9768aca6f1e4865c7f45ac384f9848a08d5c5218e89.m3u8
-#EXTINF:-1 group-title="澳门",澳视澳门
-https://epg.pw/stream/e6e64a58ab7535d802589e0d071d1e88876f1fa29b85217c63be2266609587bd.m3u8
-#EXTINF:-1 group-title="澳门",澳视澳门
-https://epg.pw/stream/56630a9144813ced75bee7ec8747f5b23569dd2b8be3896bda97d1410a03a698.m3u8
-#EXTINF:-1 group-title="澳门",澳视澳门
-https://epg.pw/stream/0b38f10f254a4c9983256244cb76ddeb0d1ab9f6fe8e9848152906b411703ef1.m3u8
-#EXTINF:-1 group-title="澳门",澳视澳门
-https://epg.pw/stream/604d1e89725164f0e1500c7f46baf73369a3510e48eb63a8386e966715ab396f.m3u8
-#EXTINF:-1 group-title="澳门",澳视澳门
-https://epg.pw/stream/de255662b6770d203cd995f8384afab5b92b25be0e3bcb1ce6ce5edb7ff15ee1.m3u8
-#EXTINF:-1 group-title="澳门",澳视澳门
-https://epg.pw/stream/617c5dae1d7731f057e72191c8d13b870006a625ea70da3258ae95f58316d780.m3u8
-#EXTINF:-1 group-title="澳门",澳视澳门
-https://epg.pw/stream/147aa9879ec77f1b27ef7cf347efeaf4d7302e98a010e8a3bdc23ac4a54963c4.m3u8
-#EXTINF:-1 group-title="澳门",澳视澳门
-https://epg.pw/stream/46ee5a64a3333c541ad8a7f8272576e834cf202ea349be8a9ac1924284fe55b6.m3u8
-#EXTINF:-1 group-title="澳门",澳视澳门
-https://epg.pw/stream/da29af99df559f7115b17bcf3f3e2dd8d743f06f80b6d3d04fd0ad7abd6d5f8c.m3u8
-#EXTINF:-1 group-title="澳门",澳门综艺
-https://epg.pw/stream/0f79c4be0385c68f4578b149fae7524038686a68b35cb7a27817d5cd909bf73c.m3u8
-#EXTINF:-1 group-title="澳门",澳视葡文
-https://epg.pw/stream/aef7cfb5e6a867ac7b399576e5251f3324862d8e3c824052fbc3a8b06520674a.m3u8
-#EXTINF:-1 group-title="澳门",澳视葡文
-https://epg.pw/stream/a38579e237955dd16c9c615aa9294bfe4f004aca1df611b08295ffa9cf8cea8c.m3u8
-#EXTINF:-1 group-title="澳门",澳视葡文
-https://epg.pw/stream/0ad1c6cd346c98d4bca3fbb550d1e198407f617291c3a25db8bcc7eeb1c71e41.m3u8
-#EXTINF:-1 group-title="澳门",澳视葡文
-https://epg.pw/stream/f6878e72a5b023cdcd641e5c5823cfb87ad39ce4c667972b3d960acb4e9b687d.m3u8
-#EXTINF:-1 group-title="澳门",龙华洋片
-https://epg.pw/stream/3fdf030151b3c2d43e63b92e2a7684a3a7afc1e81aa7606d286f7d342de0f78e.m3u8
-#EXTINF:-1 group-title="澳门",龙华洋片
-https://epg.pw/stream/bed0de340c58fa780732c30aad813404df94bef388b515d0c18b3d09eb8c8b15.m3u8
-#EXTINF:-1 group-title="澳门",龙华洋片
-https://epg.pw/stream/93144ae378cebd79f532589e8f1fb02464f2419de05e363d643688afe39a2369.m3u8
 #EXTINF:-1 group-title="澳门",澳门莲花
-https://epg.pw/stream/a3fedf56e9bd44261f9d0d9e709a6859b3bcf4d253c4e04c7f1af7ab102cccdf.m3u8
-#EXTINF:-1 group-title="澳门",澳门莲花
-https://epg.pw/stream/426804b9b6067013660eb915faa7719d275cb5f82557162ba76c42710b4212d8.m3u8
-#EXTINF:-1 group-title="澳门",澳门莲花
-https://epg.pw/stream/46701a7f8b2c1d2629d545781cfc9491171f8de0e90a4c0138531df6694699eb.ctv
-#EXTINF:-1 group-title="澳门",澳门莲花
-https://epg.pw/stream/502590afbdc82fb873f284e635b743d7931599051f3424622689b236d73f188c.ctv
+http://anren.live/HK/BiIOU11uLA.m3u8
+#EXTINF:-1 group-title="澳门",澳亚卫视
+https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8?WithCaption
 
-#EXTINF:-1 group-title="台湾",TVBS HD
-https://epg.pw/stream/afb847f78b5acd53e3d500803b0d0d0481f1f5ea4506b7c97e405511df56656b.m3u8
-#EXTINF:-1 group-title="台湾",TVBS HD
-https://epg.pw/stream/76eabfd2fb018772ac22038ba6b508e080cce59536b642a3b12ed09a9f0d18e8.m3u8
-#EXTINF:-1 group-title="台湾",TVBS HD
-https://epg.pw/stream/e6dc484a7c82953019d3bd5344325bae6023267ab929dcc98a97f765e0dacf87.m3u8
-#EXTINF:-1 group-title="台湾",TVBS HD
-https://epg.pw/stream/e6dc484a7c82953019d3bd5344325bae6023267ab929dcc98a97f765e0dacf87.m3u8
-#EXTINF:-1 group-title="台湾",TVBS HD
-https://epg.pw/stream/365932050c988fb1c60de0fe6aeec7a8de1f45db23b08fea26b218db22722944.m3u8
-#EXTINF:-1 group-title="台湾",TVBS HD
-https://epg.pw/stream/b2d9db5437689cca7b6c4ef979b65c46b2e7281a2180578195dfa41c9ff1b665.m3u8
-#EXTINF:-1 group-title="台湾",TVBS HD
-https://epg.pw/stream/a393ca5f8d06da346a0e7a7f5087d9d223e4b0f8143bbfa721ad1bef99bf66d7.m3u8
-#EXTINF:-1 group-title="台湾",TVBS HD
-https://epg.pw/stream/76eabfd2fb018772ac22038ba6b508e080cce59536b642a3b12ed09a9f0d18e8.m3u8
-#EXTINF:-1 group-title="台湾",TVBS HD
-https://epg.pw/stream/56ed3793b651d18579110d51d3b7907226f04c656b6f09d68e016bda2c81212a.m3u8
-#EXTINF:-1 group-title="台湾",TVBS HD
-https://epg.pw/stream/acc0a20a2153828ee21fd280ac45016da8f5106ad277d58e814ed0a6e9693193.m3u8
-#EXTINF:-1 group-title="台湾",TVBS亚洲
-http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-#EXTINF:-1 group-title="台湾",TVBS亚洲
-http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 group-title="台湾",TVBS亚洲
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 group-title="台湾",TVBS亚洲
-https://epg.pw/stream/0bb153be553cd0686e53b40aea9b2914f8bcaae541ae54b3f2a78e0ccfd13094.m3u8
-#EXTINF:-1 group-title="台湾",TVBS亚洲
-https://epg.pw/stream/9a7bc7dcca617fb74b957580d7223744fa9315cb179241d91d8fb58d3c2f7da8.m3u8
-#EXTINF:-1 group-title="台湾",TVBS亚洲
-http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1 group-title="台湾",TVBS精采
-https://epg.pw/stream/c1bef9887f7280c9336543a91cc1d08acef138e749d5072c6ca0527b9abace27.m3u8
-#EXTINF:-1 group-title="台湾",TVBS欢乐
-https://epg.pw/stream/2b62683fc25e7903163402e0e193a366b7292a94b18853c3e6b7aebdcbab0fdd.m3u8
-#EXTINF:-1 group-title="台湾",TVBS欢乐
-https://epg.pw/stream/f4707b29b920183320c09008eafeb4d33367847177a1872f8698b1c8c6f26179.m3u8
+http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 group-title="台湾",TVBS新闻
-https://epg.pw/stream/33c8aa570dee58948c66ae4fe2c8ebd129c450683bc4077079fc8ca5a9db0035.m3u8
+http://pull-l3-cny.douyincdn.com/third/stream-e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
+#EXTINF:-1 group-title="台湾",TVBS新闻
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾",TVBS新闻
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1 group-title="台湾",TVBS新闻
 https://epg.pw/stream/db9f6471b04aa76c50c677fa9c956c94872fcb8af741b54fa989d616d62d306a.m3u8
 #EXTINF:-1 group-title="台湾",TVBS新闻
 https://epg.pw/stream/afb847f78b5acd53e3d500803b0d0d0481f1f5ea4506b7c97e405511df56656b.m3u8
 #EXTINF:-1 group-title="台湾",TVBS新闻
-http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1 group-title="台湾",TVBS新闻
 https://epg.pw/stream/b25d1fa77951f24d82b6f83f0a6eb8e9a9d4f22fc734ff47c86e3ac7a9d3e65a.m3u8
 #EXTINF:-1 group-title="台湾",TVBS新闻
-https://epg.pw/stream/632bdee41b97601c053c8b855bc896f58850c47110fe690bf81dfaebf88c2060.m3u8
-#EXTINF:-1 group-title="台湾",TVBS新闻
-http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:-1 group-title="台湾",TVBS新闻
 https://epg.pw/stream/472a4d7fa23f959fa1dcb24e36ec10d6ae18d6cb906e6d655991d3932f7e34d0.m3u8
-#EXTINF:-1 group-title="台湾",TVBS新闻
-http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:-1 group-title="台湾",TVBS新闻
-http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1 group-title="台湾",TVBS新闻
 https://epg.pw/stream/35a6ae7c902701864c3e92e6447d3289eb06592fd6b68c3092eb577002db4ebd.m3u8
 #EXTINF:-1 group-title="台湾",TVBS新闻
 https://epg.pw/stream/215ede58359c29ec190657d813abcc47baf7316e7ed87c97638c7bb733df304a.m3u8
 #EXTINF:-1 group-title="台湾",TVBS新闻
 https://epg.pw/stream/f8c8d8e006116a3579250f27e1a3eaf637dae11a7797ac4d5be1f1e61cb0fbfb.m3u8
-#EXTINF:-1 group-title="台湾",TVBS新闻
-https://epg.pw/stream/33c8aa570dee58948c66ae4fe2c8ebd129c450683bc4077079fc8ca5a9db0035.m3u8
-#EXTINF:-1 group-title="台湾",TVBS新闻
-http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1 group-title="台湾",TVBS新闻
-http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1 group-title="台湾",TVBS新闻
-http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:-1 group-title="台湾",东森财经
-https://epg.pw/stream/2d5ca8a38ea26d4156d1f00ad389f58d6c2415a284cf245d97cd83c4cbcb8617.m3u8
-#EXTINF:-1 group-title="台湾",东森财经
-https://epg.pw/stream/cf3eecaa59ae9270828bfb0e40e44a54b990f7f5475c4087ad7067ab697f0a31.m3u8
-#EXTINF:-1 group-title="台湾",东森财经
-https://epg.pw/stream/e2fffea2101e0ae41823d8341e0d55efb76c8987f22771d2792502ad2f739838.m3u8
-#EXTINF:-1 group-title="台湾",东森美洲
-http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
-#EXTINF:-1 group-title="台湾",东森美洲
-http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-#EXTINF:-1 group-title="台湾",东森美洲
-https://epg.pw/stream/29cdd682a8b49b3fa71454fb3063d73cf47efe845ca771470cfcc68b2971d500.m3u8
-#EXTINF:-1 group-title="台湾",东森新闻
-https://epg.pw/stream/446e2383cf6ac30295bfb8b95de2bac474f6a5cc9f78595fad3d0d441a511908.m3u8
-#EXTINF:-1 group-title="台湾",东森新闻
-http://www.336699.live:1935/blocksix/4gtv-live114.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台湾",东森新闻
-https://epg.pw/stream/70b102b7954d6b1120be28d9d818bc9a52dcc92cc0a45ce716885ab97fab61a3.m3u8
-#EXTINF:-1 group-title="台湾",民视
-https://epg.pw/stream/87277dbeffd4d45c91531d1fa21b5133caff51c8e2ef795eac23e1d1e7a43687.m3u8
-#EXTINF:-1 group-title="台湾",民视台湾
-https://epg.pw/stream/b67d5aadc46f90470788eae29c7b95ca9253d68fc4e87244baf0cecd7e10cc55.m3u8
-#EXTINF:-1 group-title="台湾",民视台湾
-https://epg.pw/stream/8ec06f5fb8399dbfa8427baf13f475cd3fa28f1cca09f548ba727aa46985e011.m3u8
-#EXTINF:-1 group-title="台湾",民视第一
-https://epg.pw/stream/e6600143b77b6576c7d78287698f06b73322391885a647f5441b6e41aaea196c.m3u8
-#EXTINF:-1 group-title="台湾",民视综艺
-https://epg.pw/stream/3add359cb36beae09486a952c9a1e15b04983166fcbdb3576caeaa2bd3a78e1e.m3u8
-#EXTINF:-1 group-title="台湾",民视新闻
-http://tv.redrainl.site:9500/live.m3u8?c=01
-#EXTINF:-1 group-title="台湾",民视新闻
-http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 group-title="台湾",民视新闻
-http://198.16.64.10:8278/ftvnew_taiwan/playlist.m3u8?ct=19226&tid=ME4E4172771041727710&tsum=7b91c7af6212419479b392ff575e0689
-#EXTINF:-1 group-title="台湾",民视新闻
-https://epg.pw/stream/76423f8dda205b5388b7645e8b015d179913536f89916e881f34f2857266f078.m3u8
-#EXTINF:-1 group-title="台湾",民视新闻
-https://epg.pw/stream/c4e4884645d94d0d2e76e47c691546493b7031348b663eb9a67769b0096f8b7e.m3u8
-#EXTINF:-1 group-title="台湾",民视新闻
-https://epg.pw/stream/2f879cf6670f0aa13036b55cb0e302eb44ccbfb08df03ac9f422a9cc03f3875c.m3u8
-#EXTINF:-1 group-title="台湾",民视新闻
-https://epg.pw/stream/f43cc566a9c8093124c89f301ce255f77eea284858bf010fece819d0138d6854.m3u8
-#EXTINF:-1 group-title="台湾",民视新闻
-https://epg.pw/stream/2c9959eeefed0575fcaa4ccb099fbfec6333d63a94852c612b5e5ebd35be0634.m3u8
-#EXTINF:-1 group-title="台湾",民视新闻
-https://epg.pw/stream/9dbf5d5dd1d158c4dfd5622c86643d4d768447f4f75f505442254c076342e54d.m3u8
-#EXTINF:-1 group-title="台湾",三立戏剧
-https://epg.pw/stream/53128f3188a4bd8d2ce6a291786b8c9769f2d0cde92f7b00731c97b061843fd0.m3u8
-#EXTINF:-1 group-title="台湾",三立Live
-https://epg.pw/stream/8d05ff97abc9143b720359d0afacb12118dd5cbc9a9ff7dfe21fb158921435be.m3u8
-#EXTINF:-1 group-title="台湾",三立Live
-https://epg.pw/stream/8d05ff97abc9143b720359d0afacb12118dd5cbc9a9ff7dfe21fb158921435be.m3u8
-#EXTINF:-1 group-title="台湾",三立新闻
-https://epg.pw/stream/6ee87db8b6cd2aa4e2398e21afb2d06e2eeae8e34f4079ea8d9c575f45424728.m3u8
-#EXTINF:-1 group-title="台湾",三立新闻
-http://www.yshmzmc.top/gtjm.php?id=live1079
-#EXTINF:-1 group-title="台湾",三立iNEWS
-http://tv.redrainl.site:9500/live.m3u8?c=51
-#EXTINF:-1 group-title="台湾",三立iNEWS
-https://epg.pw/stream/6ee87db8b6cd2aa4e2398e21afb2d06e2eeae8e34f4079ea8d9c575f45424728.m3u8
-#EXTINF:-1 group-title="台湾",三立NEWS+
-https://ytm2.yuanhsing.cf/SETLIVE.m3u8
-#EXTINF:-1 group-title="台湾",三立NEWS+
-https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
-#EXTINF:-1 group-title="台湾",三立綜合
-https://epg.pw/stream/2a7680099d81feb64fb8f64a7e207cacb1334b2cffc529ec43542448fd3cbb6b.m3u8
-#EXTINF:-1 group-title="台湾",台视
-http://23.237.10.66:16344
-#EXTINF:-1 group-title="台湾",台视新闻
-http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="台湾",TVBS HD
+https://epg.pw/stream/acc0a20a2153828ee21fd280ac45016da8f5106ad277d58e814ed0a6e9693193.m3u8
+#EXTINF:-1 group-title="台湾",TVBS HD
+http://198.16.64.10:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
+#EXTINF:-1 group-title="台湾",中天综合
+http://23.237.10.66:16372/
+#EXTINF:-1 group-title="台湾",中天综合
+http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m3u8
+#EXTINF:-1 group-title="台湾",中天综合
+http://107.151.203.111:2209/135/us50.php?id=ztz
+#EXTINF:-1 group-title="台湾",中天亚洲
+http://198.16.64.10:8278/ctiasia_twn/playlist.m3u8?tid=MC3C8838319088383190&ct=19226&tsum=6eaf7a477dd08b06a5dc54b4c05e52e1
+#EXTINF:-1 group-title="台湾",长城精品
+http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾",原住民电视
+http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
+#EXTINF:-1 group-title="台湾",原住民电视
+http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 group-title="台湾",原住民电视
+https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=https%3A%2F%2Fwww.ipcf.org.tw%2F
+#EXTINF:-1 group-title="台湾",卫视中文
+http://pull-l3-cny.douyincdn.com/third/stream-41f29bf461ffa99e595f70b9593c61aa.m3u8
 #EXTINF:-1 group-title="台湾",台视新闻
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 group-title="台湾",台视新闻
-http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 group-title="台湾",台视新闻
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="台湾",台视新闻
+https://epg.pw/stream/8e567c2ce6cc228618f425209e6868e137e86ac26e2d7f8ada32f040c1c99244.m3u8
 #EXTINF:-1 group-title="台湾",台视新闻
 https://epg.pw/stream/8655006acfa3857ec51f6427fa2ea9ca167b38fc53ae84d1645bc0ce8b4060ba.m3u8
 #EXTINF:-1 group-title="台湾",台视新闻
 https://epg.pw/stream/dc6941ad1ea0592ef8189f4315353b7de9f8a1d5574caa04298de9f154c2f46d.m3u8
 #EXTINF:-1 group-title="台湾",台视新闻
-https://epg.pw/stream/8e567c2ce6cc228618f425209e6868e137e86ac26e2d7f8ada32f040c1c99244.m3u8
-#EXTINF:-1 group-title="台湾",台视新闻
 https://epg.pw/stream/849511851ea9ab14eb0aa58bcc71f41c0beb5dac529ba8b2b562bdcb78795db9.m3u8
-#EXTINF:-1 group-title="台湾",台视新闻
-http://tv.redrainl.site:9500/live.m3u8?c=11
-#EXTINF:-1 group-title="台湾",台视新闻
-http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 group-title="台湾",台视新闻
-http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 group-title="台湾",中视经典
-https://epg.pw/stream/7358d4e48ea46708e0f90d8a157e9198a20fcd9f9d460e23c9e61fef42dbd140.m3u8
-#EXTINF:-1 group-title="台湾",中视新闻
-https://epg.pw/stream/96669eb79e646b66e46dbed5d8f6c9bc8cc1d2ccc296d60f6117f84db42148ba.m3u8
+#EXTINF:-1 group-title="台湾",台视
+http://23.237.10.66:16344
+#EXTINF:-1 group-title="台湾",台视
+http://23.237.10.66:16345?$1920x1080
+#EXTINF:-1 group-title="台湾",台视
+http://107.151.203.111:2209/135/us50.php?id=tsk
+#EXTINF:-1 group-title="台湾",三立Live
+https://epg.pw/stream/8d05ff97abc9143b720359d0afacb12118dd5cbc9a9ff7dfe21fb158921435be.m3u8
+#EXTINF:-1 group-title="台湾",三立綜合
+https://epg.pw/stream/2a7680099d81feb64fb8f64a7e207cacb1334b2cffc529ec43542448fd3cbb6b.m3u8
+#EXTINF:-1 group-title="台湾",民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="台湾",民视
+http://23.237.10.66:16334?$1280x720
+#EXTINF:-1 group-title="台湾",民视
+http://107.151.203.111:2209/135/us50.php?id=msk
+#EXTINF:-1 group-title="台湾",寰宇新闻
+https://epg.pw/stream/c1441f42be4f24a5f9f6f6a1496c6625be725600c885b5cbe70ab7618c650a82.m3u8
+#EXTINF:-1 group-title="台湾",华语电视
+http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
 #EXTINF:-1 group-title="台湾",华语电视
 http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
 #EXTINF:-1 group-title="台湾",华语电视
 http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 #EXTINF:-1 group-title="台湾",华语电视
-https://epg.pw/stream/80afbedd74757842c4b170d0e10858e4790d45705b8ed54493a04f0438d00c45.m3u8
-#EXTINF:-1 group-title="台湾",华语电视
-https://epg.pw/stream/1f2ea6f297786d7f386ee3bc1da1e2929fad4cf24895034f5602e5ed3f948320.m3u8
-#EXTINF:-1 group-title="台湾",华语电视
-https://epg.pw/stream/1bc31c5aef3c9f590724f97413d8e11a265d4268a4624043f3a9bf0691373cd9.m3u8
-#EXTINF:-1 group-title="台湾",华语电视
 https://epg.pw/stream/d19956063121402129a3c041f2561cb72777760f4c27275b9fc37cc1390addeb.m3u8
-#EXTINF:-1 group-title="台湾",华语电视
-https://epg.pw/stream/c30733801f75330bf636b27269e6cffece818fa88cb5531246d6085f6b441715.m3u8
-#EXTINF:-1 group-title="台湾",华语电视
-https://epg.pw/stream/a5984dd7276de895490d8c1c607d75f12a34c8a22d9aaab0a12a35a62dfed7df.m3u8
 #EXTINF:-1 group-title="台湾",华视新闻
 http://stream.dsichannel.com:80/hls/cts-news.m3u8
 #EXTINF:-1 group-title="台湾",华视新闻
-https://epg.pw/stream/be02f811be54fe060f2ac4cb88282efd19df2b9f8f121f5757f66a0976465c52.m3u8
-#EXTINF:-1 group-title="台湾",华视新闻
 https://epg.pw/stream/f9e431741cb4630d697392f3b649276f9d9cf157a07980bbc202abca3029a6ad.m3u8
 #EXTINF:-1 group-title="台湾",华视新闻
+https://epg.pw/stream/be02f811be54fe060f2ac4cb88282efd19df2b9f8f121f5757f66a0976465c52.m3u8
+#EXTINF:-1 group-title="台湾",华视新闻
 http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾",华视
-https://epg.pw/stream/8bcd529b2793e8cae2ff27b20a451c0aaa4bba970d93e2bfc7ead27592436c72.m3u8
-#EXTINF:-1 group-title="台湾",华视
-https://epg.pw/stream/0748d32dbe9af0cef38d6b14e9a254bc1e8c0498676c910b515223fa750e5604.m3u8
-#EXTINF:-1 group-title="台湾",年代新闻
-http://www.yshmzmc.top/gtjm.php?id=live1077
-#EXTINF:-1 group-title="台湾",镜新闻
-http://tv.redrainl.site:9500/live.m3u8?c=28
-#EXTINF:-1 group-title="台湾",镜新闻
-http://158.101.151.82:9000/jmsytb.m3u8?c=19
-#EXTINF:-1 group-title="台湾",镜新闻
-https://hls.youtb.workers.dev/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
-#EXTINF:-1 group-title="台湾",寰宇新闻
-https://epg.pw/stream/c1441f42be4f24a5f9f6f6a1496c6625be725600c885b5cbe70ab7618c650a82.m3u8
-#EXTINF:-1 group-title="台湾",寰宇新闻
-https://epg.pw/stream/5d107352c6e105b8de3715772b10ce78c786952e5a676a5ac5d07889dc4c5970.m3u8
-#EXTINF:-1 group-title="台湾",寰宇新闻
-https://epg.pw/stream/40833314360743d7be077bc17827bf045520b724acb210ad19c0995d49a678a9.m3u8
-#EXTINF:-1 group-title="台湾",寰宇新闻
-http://tv.redrainl.site:9500/live.m3u8?c=22
-#EXTINF:-1 group-title="台湾",寰宇新闻
-http://www.yshmzmc.top/gtjm.php?id=live1222
-#EXTINF:-1 group-title="台湾",中天综合
-https://epg.pw/stream/5162beedef118a9ae26392321d4161208570444abbaf07f366af56fd65ed4cf6.m3u8
-#EXTINF:-1 group-title="台湾",中天综合
-https://epg.pw/stream/6869d5e99e31c9cd1b1227b51c8228974e680f1966a6dd8c3d973677751a3c3d.ctv
-#EXTINF:-1 group-title="台湾",中天新闻
-https://hls.youtb.workers.dev/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
-#EXTINF:-1 group-title="台湾",中天新闻
-https://epg.pw/stream/39d1bda5333c7c710aecd9df8bae36f84694014cbf55ab3bcd7b7e45f46fc0e6.m3u8
-#EXTINF:-1 group-title="台湾",中天新闻
-https://epg.pw/stream/0ed410a27f761ac2fecd0e0c362b76dd813f2ba343739d79e92bb063225ffd60.m3u8
-#EXTINF:-1 group-title="台湾",中天新闻
-http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾",中天新闻
-http://tv.redrainl.site:9500/live.m3u8?c=03
-#EXTINF:-1 group-title="台湾",中天亚洲
-https://epg.pw/stream/ba6ca89ebc48dff5229ed9b4edd817cae0b527defa30d2cccfb29be74710db28.m3u8
-#EXTINF:-1 group-title="台湾",中天亚洲
-https://epg.pw/stream/8739b88c2607e20b299033d77faebcb7edc2f24d3fac69f69f614ace8e4b0f95.m3u8
-#EXTINF:-1 group-title="台湾",中天亚洲
-https://epg.pw/stream/4f67ce889a6825025d0fb7851cb239df352706155dce1c68ca0bba7c6f95521e.m3u8
-#EXTINF:-1 group-title="台湾",中视新闻
-http://tv.redrainl.site:9500/live.m3u8?c=02
-#EXTINF:-1 group-title="台湾",中视新闻
-http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾",东森洋片
-https://epg.pw/stream/6b69a2845bcd179e2ad03e4e13e835bb6ec219104eaef85224f6a16e715b55f1.m3u8
-#EXTINF:-1 group-title="台湾",东森洋片
-https://epg.pw/stream/5c483f4313663e3863561084a43ee9192cc67a27cf45925cc40a3105e1c9a5ab.m3u8
-#EXTINF:-1 group-title="台湾",东森洋片
-https://epg.pw/stream/89b502c3da06f7c6b8c672759a7b2462e646dcd47b4f9e5e9dc27104b492e397.m3u8
-#EXTINF:-1 group-title="台湾",东森洋片
-https://epg.pw/stream/e11bfc818748c703f304e2cebbbd8a3865dc873e423c3baadfb328121f4f4ad1.m3u8
-#EXTINF:-1 group-title="台湾",东森洋片
-https://epg.pw/stream/a7397a8a023305fd401350b287e20b520e749120f1226235f807b43128a7c127.m3u8
-#EXTINF:-1 group-title="台湾",东森洋片
-https://epg.pw/stream/9874d4a9817093ff528fdbac50a5fddfff70d08a41950e75ad75db647f6873f1.ctv
-#EXTINF:-1 group-title="台湾",东森洋片
-https://epg.pw/stream/b9fc341506975f50a8a734e3167a83d8aed3c9c06fe06c0bceb7e29652d51cf0.ctv
-#EXTINF:-1 group-title="台湾",东森电影
-https://epg.pw/stream/430e34c7bf7730ce863711add9047d37c2cfafd6c995f092ea003662adada374.m3u8
-#EXTINF:-1 group-title="台湾",东森电影
-https://epg.pw/stream/46ad725fd296f2cbb0f65cbf76625be05217e2b6b87a252fcdf2d16f18d0577b.m3u8
-#EXTINF:-1 group-title="台湾",东森电影
-https://epg.pw/stream/33dfb7795f97ce464bb48107496929d1c7315ddab2d5044460dd7fb790bb9fef.m3u8
-#EXTINF:-1 group-title="台湾",东森电影
-https://epg.pw/stream/a0b9315402274185ef356a21617d405505c66c9c83b3b7587693df827133f723.m3u8
-#EXTINF:-1 group-title="台湾",东森电影
-https://epg.pw/stream/90a62c33f38c293e9b8fc4d23d489d299a50e1a3d7c7901acd536f36d7eea7ba.m3u8
-#EXTINF:-1 group-title="台湾",东森电影
-https://epg.pw/stream/20b11b2c1705cc14f01a7e6ed44b25c595d0bdc688995ee1fd83b983475c69c3.m3u8
-#EXTINF:-1 group-title="台湾",凤凰电影
-https://epg.pw/stream/3faefe9496fcc77a959a89eb0605e8c02f77cdc477845c6c7f2e9dc2a677a70f.m3u8
-#EXTINF:-1 group-title="台湾",凤凰电影
-https://epg.pw/stream/0f1d0ac861db75da20b47738aa5bf789d32129acb76481dd281ee09d4b9d33a5.m3u8
-#EXTINF:-1 group-title="台湾",莲花电影
-https://epg.pw/stream/1a83b8a84a9c0748b891bea52b8c9a13cd5212d3c55df296c30be8a4d9838edb.m3u8
-
+#EXTINF:-1 group-title="台湾",华视新闻
+http://stream.dsichannel.com/hls/cts-news.m3u8
+#EXTINF:-1 group-title="台湾",番薯
+http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+#EXTINF:-1 group-title="台湾",番薯
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+#EXTINF:-1 group-title="台湾",东森Live
+https://epg.pw/stream/70b102b7954d6b1120be28d9d818bc9a52dcc92cc0a45ce716885ab97fab61a3.m3u8
+#EXTINF:-1 group-title="台湾",东森新闻
+https://epg.pw/stream/446e2383cf6ac30295bfb8b95de2bac474f6a5cc9f78595fad3d0d441a511908.m3u8
+#EXTINF:-1 group-title="台湾",东森新闻
+http://www.336699.live:1935/blocksix/4gtv-live114.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",东森美洲
+http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
+#EXTINF:-1 group-title="台湾",东森美洲
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾",东森美洲
+http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾",东森美洲
+https://epg.pw/stream/29cdd682a8b49b3fa71454fb3063d73cf47efe845ca771470cfcc68b2971d500.m3u8
+#EXTINF:-1 group-title="台湾",东森超视
+http://38.64.72.148:80/hls/modn/list/2018/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾",东森超视
+http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+#EXTINF:-1 group-title="台湾",大立电视
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 
 
 #EXTINF:-1 group-title="国际",「CA」 5AABTV
@@ -1690,7 +1468,7 @@ https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/m
 https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
 #EXTINF:-1 group-title="国际",CBS News Pittsburgh
 https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
-#EXTINF:-1 group-title="国际",CBS News Sacramento 
+#EXTINF:-1 group-title="国际",CBS News Sacramento
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnsac_2/master.m3u8
 #EXTINF:-1 group-title="国际",CEC国际旅游
 http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
@@ -1727,9 +1505,9 @@ https://livees.cgtn.com/1000e/prog_index.m3u8?zshijd
 #EXTINF:-1 group-title="国际",CGTN西语
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8?zshijd
 #EXTINF:-1 group-title="国际",CNA
-http://line.premiumpowers.net:80/Manuel/1234567/941688
-#EXTINF:-1 group-title="国际",CNA
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="国际",CNA
+http://line.premiumpowers.net:80/Manuel/1234567/941688
 #EXTINF:-1 group-title="国际",CNBC
 http://line.premiumpowers.net:80/Manuel/1234567/941689
 #EXTINF:-1 group-title="国际",CNC英文
@@ -1764,6 +1542,8 @@ http://line.premiumpowers.net:80/Manuel/1234567/941666
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/419893
 #EXTINF:-1 group-title="国际",FASHION
 http://line.premiumpowers.net:80/Manuel/1234567/941677
+#EXTINF:-1 group-title="国际",FOX NEWS
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 group-title="国际",FOX NEWS
 http://line.premiumpowers.net:80/Manuel/1234567/941685
 #EXTINF:-1 group-title="国际",Fox Soul (1080p)
@@ -2090,7 +1870,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=FHD&ccode=JP&m=d0:2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="日本",职业摔跤(NJPW)
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
-
 #EXTINF:-1 group-title="新加坡",「SG」亚洲新闻
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 group-title="新加坡",「SG」亚洲新闻
@@ -2227,7 +2006,6 @@ http://line.premiumpowers.net:80/Manuel/1234567/941618
 http://line.premiumpowers.net:80/Manuel/1234567/941624
 #EXTINF:-1 group-title="新加坡",亚洲旅游台
 http://line.premiumpowers.net:80/Manuel/1234567/941640
-
 #EXTINF:-1 group-title="韩国",Arirang 阿里郎
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="韩国",Arirang 阿里郎
@@ -2366,8 +2144,6 @@ http://moneytoday1.ktcdn.co.kr:1935/mtnlive/720/playlist.m3u8
 http://183.110.27.87/mtnlive/definst/720/chunklist.m3u8
 #EXTINF:-1 group-title="韩国",韩国职业广播
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
-
-
 #EXTINF:-1 group-title="风景",八达岭长城北十楼
 http://gcksc.v.kcdnvip.com/gc/bgwn10_1/index.m3u8
 #EXTINF:-1 group-title="风景",八达岭长城北十楼
@@ -3296,223 +3072,219 @@ http://gcbsc.v.live.baishancdnx.cn/gc/ztn_1/index.m3u8
 http://gcksc.v.kcdnvip.com/gc/djd01_1/index.m3u8
 #EXTINF:-1 group-title="风景",舟山东极岛
 http://gcbsc.v.live.baishancdnx.cn/gc/djd01_1/index.m3u8
-
-
-#EXTINF:-1 group-title="埋堆堆",埋堆堆1
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆1
 http://txtest-xp2p.p2p.huya.com/src/1199561241049-1199561241049-5434703289662832640-2399122605554-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆2
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆2
 http://txtest-xp2p.p2p.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆3
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆3
 http://txtest-xp2p.p2p.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆4
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆4
 http://txtest-xp2p.p2p.huya.com/src/1199563488528-1199563488528-5444356138466279424-2399127100512-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆5
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆5
 http://txtest-xp2p.p2p.huya.com/src/1199563478941-1199563478941-5444314962614812672-2399127081338-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆6
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆6
 http://txtest-xp2p.p2p.huya.com/src/1199561223711-1199561223711-5434628823519854592-2399122570878-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆7
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆7
 http://txtest-xp2p.p2p.huya.com/src/1199561182641-1199561182641-5434452429213007872-2399122488738-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆11
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆11
 http://txtest-xp2p.p2p.huya.com/src/1199561463578-1199561463578-5435659044440244224-2399123050612-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆12
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆12
 http://txtest-xp2p.p2p.huya.com/src/1199561226091-1199561226091-5434639045542019072-2399122575638-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆13
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆13
 http://txtest-xp2p.p2p.huya.com/src/1199561276763-1199561276763-5434856680124841984-2399122676982-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆15
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆15
 http://txtest-xp2p.p2p.huya.com/src/1199563459241-1199563459241-5444230351759081472-2399127041938-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆16
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆16
 http://txtest-xp2p.p2p.huya.com/src/1199563478941-1199563478941-5444314962614812672-2399127081338-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆17
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆17
 http://txtest-xp2p.p2p.huya.com/src/1199561223711-1199561223711-5434628823519854592-2399122570878-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆23
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆23
 http://txtest-xp2p.p2p.huya.com/src/1199561463578-1199561463578-5435659044440244224-2399123050612-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆23
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆23
 http://txtest-xp2p.p2p.huya.com/src/1199563493375-1199563493375-5444376956172763136-2399127110206-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆24
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆24
 http://txtest-xp2p.p2p.huya.com/src/1199564003640-1199564003640-5446568527660056576-2399128130736-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆25
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆25
 http://txtest-xp2p.p2p.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆26
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆26
 http://txtest-xp2p.p2p.huya.com/src/1199563486009-1199563486009-5444345319443660800-2399127095474-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆27
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆27
 http://txtest-xp2p.p2p.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆28
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆28
 http://txtest-xp2p.p2p.huya.com/src/1199561462555-1199561462555-5435654650688700416-2399123048566-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆29
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆29
 http://txtest-xp2p.p2p.huya.com/src/1199563478867-1199563478867-5444314644787232768-2399127081190-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆30
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆30
 http://txtest-xp2p.p2p.huya.com/src/1199561277686-1199561277686-5434860644379656192-2399122678828-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆31
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆31
 http://txtest-xp2p.p2p.huya.com/src/1199563481280-1199563481280-5444325008543318016-2399127086016-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆32
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆32
 http://txtest-xp2p.p2p.huya.com/src/1199563491137-1199563491137-5444367344035954688-2399127105730-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆33
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆33
 http://txtest-xp2p.p2p.huya.com/src/1199563492830-1199563492830-5444374615415586816-2399127109116-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆36
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆36
 http://txtest-xp2p.p2p.huya.com/src/1199563486009-1199563486009-5444345319443660800-2399127095474-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆40
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆40
 http://txtest-xp2p.p2p.huya.com/src/1199561240999-1199561240999-5434703074914467840-2399122605454-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆41
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆41
 http://txtest-xp2p.p2p.huya.com/src/1199563461114-1199563461114-5444238396232826880-2399127045684-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆42
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆42
 http://txtest-xp2p.p2p.huya.com/src/1199561276760-1199561276760-5434856667239940096-2399122676976-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆44
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆44
 http://txtest-xp2p.p2p.huya.com/src/1199561277675-1199561277675-5434860597135015936-2399122678806-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆45
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆45
 http://txtest-xp2p.p2p.huya.com/src/1199561176240-1199561176240-5434424937127346176-2399122475936-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆47
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆47
 http://txtest-xp2p.p2p.huya.com/src/1199561244004-1199561244004-5434715981291192320-2399122611464-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆48
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆48
 http://txtest-xp2p.p2p.huya.com/src/1199561179151-1199561179151-5434437439777144832-2399122481758-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆50
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆50
 http://txtest-xp2p.p2p.huya.com/src/1199563452505-1199563452505-5444201420859375616-2399127028466-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆51
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆51
 http://txtest-xp2p.p2p.huya.com/src/1199563479483-1199563479483-5444317290487087104-2399127082422-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆52
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆52
 http://txtest-xp2p.p2p.huya.com/src/1199561278783-1199561278783-5434865355958779904-2399122681022-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆53
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆53
 http://txtest-xp2p.p2p.huya.com/src/1199561277724-1199561277724-5434860807588413440-2399122678904-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆54
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆54
 http://txtest-xp2p.p2p.huya.com/src/1199563491137-1199563491137-5444367344035954688-2399127105730-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆55
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆55
 http://txtest-xp2p.p2p.huya.com/src/1199561277686-1199561277686-5434860644379656192-2399122678828-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆56
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆56
 http://txtest-xp2p.p2p.huya.com/src/1199563486009-1199563486009-5444345319443660800-2399127095474-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆57
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆57
 http://txtest-xp2p.p2p.huya.com/src/1199561276763-1199561276763-5434856680124841984-2399122676982-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆58
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆58
 http://txtest-xp2p.p2p.huya.com/src/1199561176260-1199561176260-5434425023026692096-2399122475976-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆61
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆61
 http://txtest-xp2p.p2p.huya.com/src/1199561153167-1199561153167-5434325839346925568-2399122429790-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆65
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆65
 http://txtest-xp2p.p2p.huya.com/src/1199563564801-1199563564801-5444683728506847232-2399127253058-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆66
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆66
 http://txtest-xp2p.p2p.huya.com/src/1199563488528-1199563488528-5444356138466279424-2399127100512-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆66
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆66
 http://txtest-xp2p.p2p.huya.com/src/1199561152145-1199561152145-5434321449890349056-2399122427746-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆67
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆67
 http://txtest-xp2p.p2p.huya.com/src/1199563452337-1199563452337-5444200699304869888-2399127028130-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆68
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆68
 http://txtest-xp2p.p2p.huya.com/src/1199561176260-1199561176260-5434425023026692096-2399122475976-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆69
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆69
 http://txtest-xp2p.p2p.huya.com/src/1199561462555-1199561462555-5435654650688700416-2399123048566-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆70
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆70
 http://txtest-xp2p.p2p.huya.com/src/1199563479466-1199563479466-5444317217472643072-2399127082388-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆71
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆71
 http://txtest-xp2p.p2p.huya.com/src/1199561153167-1199561153167-5434325839346925568-2399122429790-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆73
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆73
 http://txtest-xp2p.p2p.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.xs
-#EXTINF:-1 group-title="埋堆堆",埋堆堆74
+#EXTINF:-1 group-title="埋堆堆港剧",埋堆堆74
 http://txtest-xp2p.p2p.huya.com/src/1199563564801-1199563564801-5444683728506847232-2399127253058-10057-A-0-1.xs
-
-#EXTINF:-1 group-title="虎牙",虎牙电影1
+#EXTINF:-1 group-title="虎牙影视",虎牙电影1
 http://epg.112114.xyz/huya/11602058
-#EXTINF:-1 group-title="虎牙",虎牙电影2
+#EXTINF:-1 group-title="虎牙影视",虎牙电影2
 http://epg.112114.xyz/huya/11601968
-#EXTINF:-1 group-title="虎牙",虎牙电影3
+#EXTINF:-1 group-title="虎牙影视",虎牙电影3
 http://epg.112114.xyz/huya/11342412
-#EXTINF:-1 group-title="虎牙",虎牙电影4
+#EXTINF:-1 group-title="虎牙影视",虎牙电影4
 http://epg.112114.xyz/huya/11342386
-#EXTINF:-1 group-title="虎牙",虎牙电影5
+#EXTINF:-1 group-title="虎牙影视",虎牙电影5
 http://epg.112114.xyz/huya/11601986
-#EXTINF:-1 group-title="虎牙",虎牙电影6
+#EXTINF:-1 group-title="虎牙影视",虎牙电影6
 http://epg.112114.xyz/huya/11601971
-#EXTINF:-1 group-title="虎牙",虎牙电影7
+#EXTINF:-1 group-title="虎牙影视",虎牙电影7
 http://epg.112114.xyz/huya/11336592
-#EXTINF:-1 group-title="虎牙",虎牙电影8
+#EXTINF:-1 group-title="虎牙影视",虎牙电影8
 http://epg.112114.xyz/huya/11342390
-#EXTINF:-1 group-title="虎牙",虎牙电影9
+#EXTINF:-1 group-title="虎牙影视",虎牙电影9
 http://epg.112114.xyz/huya/11352941
-#EXTINF:-1 group-title="虎牙",虎牙电影10
+#EXTINF:-1 group-title="虎牙影视",虎牙电影10
 http://epg.112114.xyz/huya/11279251
-#EXTINF:-1 group-title="虎牙",虎牙电影11
+#EXTINF:-1 group-title="虎牙影视",虎牙电影11
 http://epg.112114.xyz/huya/11602041
-#EXTINF:-1 group-title="虎牙",虎牙电影12
+#EXTINF:-1 group-title="虎牙影视",虎牙电影12
 http://epg.112114.xyz/huya/11352963
-#EXTINF:-1 group-title="虎牙",虎牙电影13
+#EXTINF:-1 group-title="虎牙影视",虎牙电影13
 http://epg.112114.xyz/huya/11342414
-#EXTINF:-1 group-title="虎牙",虎牙电影14
+#EXTINF:-1 group-title="虎牙影视",虎牙电影14
 http://epg.112114.xyz/huya/11602075
-#EXTINF:-1 group-title="虎牙",虎牙电影15
+#EXTINF:-1 group-title="虎牙影视",虎牙电影15
 http://epg.112114.xyz/huya/11352962
-#EXTINF:-1 group-title="虎牙",虎牙电影16
+#EXTINF:-1 group-title="虎牙影视",虎牙电影16
 http://epg.112114.xyz/huya/11336571
-#EXTINF:-1 group-title="虎牙",虎牙电影17
+#EXTINF:-1 group-title="虎牙影视",虎牙电影17
 http://epg.112114.xyz/huya/11342427
-#EXTINF:-1 group-title="虎牙",虎牙电影18
+#EXTINF:-1 group-title="虎牙影视",虎牙电影18
 http://epg.112114.xyz/huya/11336719
-#EXTINF:-1 group-title="虎牙",虎牙电影19
+#EXTINF:-1 group-title="虎牙影视",虎牙电影19
 http://epg.112114.xyz/huya/11352894
-#EXTINF:-1 group-title="虎牙",虎牙电影20
+#EXTINF:-1 group-title="虎牙影视",虎牙电影20
 http://epg.112114.xyz/huya/11352877
-#EXTINF:-1 group-title="虎牙",虎牙电影21
+#EXTINF:-1 group-title="虎牙影视",虎牙电影21
 http://epg.112114.xyz/huya/11602077
-#EXTINF:-1 group-title="虎牙",虎牙电影22
+#EXTINF:-1 group-title="虎牙影视",虎牙电影22
 http://epg.112114.xyz/huya/11601960
-#EXTINF:-1 group-title="虎牙",虎牙电影23
+#EXTINF:-1 group-title="虎牙影视",虎牙电影23
 http://epg.112114.xyz/huya/11352965
-#EXTINF:-1 group-title="虎牙",虎牙电影24
+#EXTINF:-1 group-title="虎牙影视",虎牙电影24
 http://epg.112114.xyz/huya/11342435
-#EXTINF:-1 group-title="虎牙",虎牙电影25
+#EXTINF:-1 group-title="虎牙影视",虎牙电影25
 http://epg.112114.xyz/huya/11342423
-#EXTINF:-1 group-title="虎牙",虎牙电影26
+#EXTINF:-1 group-title="虎牙影视",虎牙电影26
 http://epg.112114.xyz/huya/11352909
-#EXTINF:-1 group-title="虎牙",虎牙电影27
+#EXTINF:-1 group-title="虎牙影视",虎牙电影27
 http://epg.112114.xyz/huya/11352886
-#EXTINF:-1 group-title="虎牙",虎牙电影28
+#EXTINF:-1 group-title="虎牙影视",虎牙电影28
 http://epg.112114.xyz/huya/11602044
-
-#EXTINF:-1 group-title="斗鱼",斗鱼电影1
+#EXTINF:-1 group-title="斗鱼影视",斗鱼电影1
 http://epg.112114.xyz/douyu/3637778
-#EXTINF:-1 group-title="斗鱼",斗鱼电影2
+#EXTINF:-1 group-title="斗鱼影视",斗鱼电影2
 http://epg.112114.xyz/douyu/3637726
-#EXTINF:-1 group-title="斗鱼",斗鱼电影3
+#EXTINF:-1 group-title="斗鱼影视",斗鱼电影3
 http://epg.112114.xyz/douyu/8985415
-#EXTINF:-1 group-title="斗鱼",斗鱼电影4
+#EXTINF:-1 group-title="斗鱼影视",斗鱼电影4
 http://epg.112114.xyz/douyu/9650887
-#EXTINF:-1 group-title="斗鱼",斗鱼电影5
+#EXTINF:-1 group-title="斗鱼影视",斗鱼电影5
 http://epg.112114.xyz/douyu/1226741
-#EXTINF:-1 group-title="斗鱼",斗鱼电影6
+#EXTINF:-1 group-title="斗鱼影视",斗鱼电影6
 http://epg.112114.xyz/douyu/36337
-#EXTINF:-1 group-title="斗鱼",斗鱼电影7
+#EXTINF:-1 group-title="斗鱼影视",斗鱼电影7
 http://epg.112114.xyz/douyu/2436390
-#EXTINF:-1 group-title="斗鱼",斗鱼电影8
+#EXTINF:-1 group-title="斗鱼影视",斗鱼电影8
 http://epg.112114.xyz/douyu/96577
-#EXTINF:-1 group-title="斗鱼",斗鱼电影9
+#EXTINF:-1 group-title="斗鱼影视",斗鱼电影9
 http://epg.112114.xyz/douyu/8770422
-#EXTINF:-1 group-title="斗鱼",斗鱼电影10
+#EXTINF:-1 group-title="斗鱼影视",斗鱼电影10
 http://epg.112114.xyz/douyu/6140589
-#EXTINF:-1 group-title="斗鱼",斗鱼电影11
+#EXTINF:-1 group-title="斗鱼影视",斗鱼电影11
 http://epg.112114.xyz/douyu/20415
-#EXTINF:-1 group-title="斗鱼",斗鱼电影12
+#EXTINF:-1 group-title="斗鱼影视",斗鱼电影12
 http://epg.112114.xyz/douyu/323876
-#EXTINF:-1 group-title="斗鱼",斗鱼电影13
+#EXTINF:-1 group-title="斗鱼影视",斗鱼电影13
 http://epg.112114.xyz/douyu/747764
-#EXTINF:-1 group-title="斗鱼",斗鱼电影14
+#EXTINF:-1 group-title="斗鱼影视",斗鱼电影14
 http://epg.112114.xyz/douyu/85894
-#EXTINF:-1 group-title="斗鱼",斗鱼电影15
+#EXTINF:-1 group-title="斗鱼影视",斗鱼电影15
 http://epg.112114.xyz/douyu/122402
-#EXTINF:-1 group-title="斗鱼",斗鱼电影16
+#EXTINF:-1 group-title="斗鱼影视",斗鱼电影16
 http://epg.112114.xyz/douyu/9292492
-#EXTINF:-1 group-title="斗鱼",斗鱼电影17
+#EXTINF:-1 group-title="斗鱼影视",斗鱼电影17
 http://epg.112114.xyz/douyu/2516864
-#EXTINF:-1 group-title="斗鱼",斗鱼电影18
+#EXTINF:-1 group-title="斗鱼影视",斗鱼电影18
 http://epg.112114.xyz/douyu/4332
-#EXTINF:-1 group-title="斗鱼",斗鱼电影19
+#EXTINF:-1 group-title="斗鱼影视",斗鱼电影19
 http://epg.112114.xyz/douyu/9651304
-#EXTINF:-1 group-title="斗鱼",斗鱼电影20
+#EXTINF:-1 group-title="斗鱼影视",斗鱼电影20
 http://epg.112114.xyz/douyu/8814650
-#EXTINF:-1 group-title="斗鱼",斗鱼电影21
+#EXTINF:-1 group-title="斗鱼影视",斗鱼电影21
 http://epg.112114.xyz/douyu/8945323
-#EXTINF:-1 group-title="斗鱼",斗鱼电影22
+#EXTINF:-1 group-title="斗鱼影视",斗鱼电影22
 http://epg.112114.xyz/douyu/252802
-#EXTINF:-1 group-title="斗鱼",斗鱼电影23
+#EXTINF:-1 group-title="斗鱼影视",斗鱼电影23
 http://epg.112114.xyz/douyu/2436390
-#EXTINF:-1 group-title="斗鱼",斗鱼电视剧HD1
+#EXTINF:-1 group-title="斗鱼影视",斗鱼电视剧HD1
 http://epg.112114.xyz/douyu/2838296
-#EXTINF:-1 group-title="斗鱼",斗鱼电视剧HD2
+#EXTINF:-1 group-title="斗鱼影视",斗鱼电视剧HD2
 http://epg.112114.xyz/douyu/748
-#EXTINF:-1 group-title="斗鱼",斗鱼电视剧HD3
+#EXTINF:-1 group-title="斗鱼影视",斗鱼电视剧HD3
 http://epg.112114.xyz/douyu/6706214
-#EXTINF:-1 group-title="斗鱼",斗鱼电视剧HD4
+#EXTINF:-1 group-title="斗鱼影视",斗鱼电视剧HD4
 http://epg.112114.xyz/douyu/6566658

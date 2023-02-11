@@ -1,21 +1,16 @@
 风景,#genre#
-大理崇圣寺三塔湖面,http://gcksc.v.kcdnvip.com/gc/dlst02_1/index.m3u8#http://gccncc.v.wscdns.com/gc/dlst02_1/index.m3u8#http://gcbsc.v.live.baishancdnx.cn/gc/dlst02_1/index.m3u8,tvming-NULL
-大理崇圣寺三塔远景,http://gcksc.v.kcdnvip.com/gc/dlst01_1/index.m3u8#http://gccncc.v.wscdns.com/gc/dlst01_1/index.m3u8#http://gcbsc.v.live.baishancdnx.cn/gc/dlst01_1/index.m3u8,tvming-NULL
-大理崇圣寺三塔湖面,http://gcksc.v.kcdnvip.com/gc/dlst02_1/index.m3u8#http://gccncc.v.wscdns.com/gc/dlst02_1/index.m3u8#http://gcbsc.v.live.baishancdnx.cn/gc/dlst02_1/index.m3u8,tvmao-dalichongshengsisantahumian
-大理崇圣寺三塔远景,http://gcksc.v.kcdnvip.com/gc/dlst01_1/index.m3u8#http://gccncc.v.wscdns.com/gc/dlst01_1/index.m3u8#http://gcbsc.v.live.baishancdnx.cn/gc/dlst01_1/index.m3u8,tvmao-dalichongshengsisantayuanjing
-大理崇圣寺三塔湖面,http://gcksc.v.kcdnvip.com/gc/dlst02_1/index.m3u8#http://gccncc.v.wscdns.com/gc/dlst02_1/index.m3u8#http://gcbsc.v.live.baishancdnx.cn/gc/dlst02_1/index.m3u8,tvmao-dalichongshengsisantahumian,,
-大理崇圣寺三塔远景,http://gcksc.v.kcdnvip.com/gc/dlst01_1/index.m3u8#http://gccncc.v.wscdns.com/gc/dlst01_1/index.m3u8#http://gcbsc.v.live.baishancdnx.cn/gc/dlst01_1/index.m3u8,tvmao-dalichongshengsisantayuanjing,,
+大理崇圣寺三塔湖面,http://gcksc.v.kcdnvip.com/gc/dlst02_1/index.m3u8
+大理崇圣寺三塔湖面,http://gccncc.v.wscdns.com/gc/dlst02_1/index.m3u8
+大理崇圣寺三塔湖面,http://gcbsc.v.live.baishancdnx.cn/gc/dlst02_1/index.m3u8
+大理崇圣寺三塔远景,http://gcksc.v.kcdnvip.com/gc/dlst01_1/index.m3u8
+大理崇圣寺三塔远景,http://gccncc.v.wscdns.com/gc/dlst01_1/index.m3u8
+大理崇圣寺三塔远景,http://gcbsc.v.live.baishancdnx.cn/gc/dlst01_1/index.m3u8
 
 
-
-#EXTINF:-1 group-title="央视",CCTV1
-http://117.169.120.244:8080/wh7f454c46tw2520989601_203106496/hwrr.jx.chinamobile.com/PLTV/88888910/224/3221225618/index.m3u8?icpid=88888910&%3BRTS=1648965019&%3Bfrom=79102&%3Bocs=2_117.169.120.241_8080&%3Bhms_devid=1402&%3Bonline=1648965019&%3Bvqe=3
-#EXTINF:-1 group-title="央视",CCTV1
-http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV1
-http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV1
-http://39.134.116.30:8080/PLTV/88888910/224/3221225762/index.m3u8
+#EXTINF:-1 group-title="财经",第一财经
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="财经",点掌财经
+http://cclive.aniu.tv/live/anzb.m3u8
 
 
 🇨🇳［卫视］,#genre#

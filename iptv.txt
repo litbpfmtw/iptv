@@ -1,6 +1,59 @@
-第一财经,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8,tvming-CBNHD
-点掌财经,http://cclive.aniu.tv/live/anzb.m3u8,tvming-NULL
-BLOOMBERG TV,https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8#https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8#https://bloomberg-bloombergtv-1-fr.samsung.wurl.com/manifest/playlist.m3u8#https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8?zshijd#https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8#https://bloomberg-bloomberg-1-fi.samsung.wurl.com/manifest/playlist.m3u8,tvming-NULL
-BLOOMBERG HT,https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8,tvming-NULL
-BLOOMBERG QUICKTAKE,https://bloomberg-quicktake-1-fi.samsung.wurl.com/manifest/playlist.m3u8,tvming-NULL
-BLOOMBERG TV ASIA,http://210.210.155.37/dr9445/h/h03/index.m3u8,tvming-NULL
+#EXTM3U
+#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实人文.png" group-title="其他",纪实人文
+https://epg.pw/stream/7e442f12ae86120f622525977d3b42506b72ac9f2b7eddaac53c7bae6b0a86ee.m3u8
+#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实人文.png" group-title="其他",纪实人文
+https://epg.pw/stream/596baf61cd77f408300383583baa40d2913fe78561ec5a26cf7f0218451f9cd3.m3u8
+#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实人文.png" group-title="其他",纪实人文
+https://epg.pw/stream/ae6c7431b59905d01557c6fd24b712d251a96222caa5c354bcdf39800005c74c.m3u8
+#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实人文.png" group-title="其他",纪实人文
+https://epg.pw/stream/2060a1257ea735269c69038177b2b63292266e0bd78d21a443bf5bbe3c1feb1e.m3u8
+#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实人文.png" group-title="其他",纪实人文
+https://epg.pw/stream/0501ddade8e96d6348586638eb8c5b321cf185be7bdb64bd93c8f3fb14bd06f0.m3u8
+#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实人文.png" group-title="其他",纪实人文
+https://epg.pw/stream/46c83bf84afe1a309534e1003ce43fa4a76d5ac27103def408630cccc2144f7d.m3u8
+#EXTINF:-1,tvg-id="纪实人文1" tvg-name="纪实人文1" tvg-logo="https://epg.112114.xyz/logo/纪实人文1.png" group-title="其他",纪实人文1
+https://epg.pw/stream/d5d943e58492d10eb89a6ce0b59aef7fd7636fc2c313816fc4fe710c6909483b.m3u8
+#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实人文.png" group-title="其他",纪实人文
+https://epg.pw/stream/f28102f67184376a73627a961942717a162f5ebaadef1da81a6fce50e088c6e0.m3u8
+#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实人文.png" group-title="其他",纪实人文
+https://epg.pw/stream/64b9f0d9632f2d92d879d176de0b55ed60e8e45e9fe4016a95a2e14a82719fb5.m3u8
+#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实人文.png" group-title="其他",纪实人文
+https://epg.pw/stream/ca4c6ddaed9d2063d21794dacc5bd6b41b42dbd0ff1afa5f6fb528bb0368ce3b.m3u8
+#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实人文.png" group-title="其他",纪实人文
+https://epg.pw/stream/c31103ef01ee0085e6e73a4510eb67d8510bf8690c5c362e24e5aa27e573c746.m3u8
+#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实人文.png" group-title="其他",纪实人文
+https://epg.pw/stream/8ed7e799a9fdce46c84e76263d92a3c790c8bb365b02747b37318c03c308a25a.m3u8
+#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实人文.png" group-title="其他",纪实人文
+https://epg.pw/stream/aecf926afa5ac4dad607b470ffe56d09c6a87001a9321612edf3efef8b286e56.m3u8
+#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实人文.png" group-title="其他",纪实人文
+https://epg.pw/stream/2e814a90eda21ea2247e3ef702b90ec894a4d03b00f6772048b98e3497d072ca.m3u8
+#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实人文.png" group-title="其他",纪实人文
+https://epg.pw/stream/520a8965e58a088b8bb5791ed9b0f5190e342e4fe5a83f1a9ebcc1d9ca33fb41.m3u8
+#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实人文.png" group-title="其他",纪实人文
+https://epg.pw/stream/c365025e74606c321f8f20cdf354cc84877c0ef9d506b7e0592e1ce5778daa07.m3u8
+#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实人文.png" group-title="其他",纪实人文
+https://epg.pw/stream/24cefea94cb28e1440595711742bfcb41242a7e57daaf6e8dbb745e0c7bcf42f.m3u8
+#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实人文.png" group-title="其他",纪实人文
+https://epg.pw/stream/13425e409d829802f6854aa40d6f92b239b6b25d640edd03c626d5bc83f46b6c.ctv
+#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实人文.png" group-title="其他",纪实人文
+https://epg.pw/stream/b71c50f4297aac0857576dfbee07dd82b53479156352007f880af52b945f4264.m3u8
+#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实人文.png" group-title="其他",纪实人文
+https://epg.pw/stream/8191c0852f6b1a6c73a56d82f48f4696ccbaefa8ac7991e3d1e808284f3d5d14.m3u8
+#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实人文.png" group-title="其他",纪实人文
+https://epg.pw/stream/f736e7eb4523780c874a808ec36eb226524cb62bb9ccf40ac38abbaebb0e370c.m3u8
+#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实人文.png" group-title="其他",纪实人文
+https://epg.pw/stream/13be38277ac27fd7f7f7e74ceb86137b349c804b12522a388a682f5dfffc6037.m3u8
+#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实人文.png" group-title="其他",纪实人文
+https://epg.pw/stream/a2671379620b489731ebf6d25e5f4d9e63d6f26b9cb7221573c8214b42d68164.m3u8
+#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实人文.png" group-title="其他",纪实人文
+https://epg.pw/stream/d01783345c88abbebfd7b21c577e4e1a93a521288344ca26f1d9b9c44e7c95e6.m3u8
+#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实人文.png" group-title="其他",纪实人文
+https://epg.pw/stream/64d936b367f3aeb8764d66f1cb0ab75287c74e846ac781802beebced19aec494.m3u8
+#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实人文.png" group-title="其他",纪实人文
+http://117.169.121.162:6610/PLTV/88888910/224/3221225654/index.m3u8
+#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实人文.png" group-title="其他",纪实人文
+http://117.169.121.162:6610/PLTV/88888910/224/3221225655/index.m3u8
+#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实人文.png" group-title="其他",纪实人文
+http://39.134.115.163:8080/TVOD/88888910/224/3221225655/index.m3u8
+#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实人文.png" group-title="其他",纪实人文
+http://39.134.115.163:8080/TVOD/88888910/224/3221225654/index.m3u8

@@ -1,6 +1,11 @@
-#EXTINF:-1 tvg-id="" tvg-name="US: CNBC World" tvg-logo="http://myserveriptv.com:2082/images/30b1731b0665d580cb0db089329597d9.png" group-title="United States",US: CNBC World
-http://sharkytv.com:2082/gJQeCDEUMQ/G5A73jP2aj7fbBy/208680
-#EXTINF:-1 tvg-id="" tvg-name="US: Fox News HD" tvg-logo="http://myserveriptv.com:2082/images/5e1fb4b0c333684a1cb36aa239fb6ec8.png" group-title="United States",US: Fox News HD
+风景,#genre#
+大理崇圣寺三塔湖面,http://gcksc.v.kcdnvip.com/gc/dlst02_1/index.m3u8#http://gccncc.v.wscdns.com/gc/dlst02_1/index.m3u8#http://gcbsc.v.live.baishancdnx.cn/gc/dlst02_1/index.m3u8,tvming-NULL
+大理崇圣寺三塔远景,http://gcksc.v.kcdnvip.com/gc/dlst01_1/index.m3u8#http://gccncc.v.wscdns.com/gc/dlst01_1/index.m3u8#http://gcbsc.v.live.baishancdnx.cn/gc/dlst01_1/index.m3u8,tvming-NULL
+大理崇圣寺三塔湖面,http://gcksc.v.kcdnvip.com/gc/dlst02_1/index.m3u8#http://gccncc.v.wscdns.com/gc/dlst02_1/index.m3u8#http://gcbsc.v.live.baishancdnx.cn/gc/dlst02_1/index.m3u8,tvmao-dalichongshengsisantahumian
+大理崇圣寺三塔远景,http://gcksc.v.kcdnvip.com/gc/dlst01_1/index.m3u8#http://gccncc.v.wscdns.com/gc/dlst01_1/index.m3u8#http://gcbsc.v.live.baishancdnx.cn/gc/dlst01_1/index.m3u8,tvmao-dalichongshengsisantayuanjing
+大理崇圣寺三塔湖面,http://gcksc.v.kcdnvip.com/gc/dlst02_1/index.m3u8#http://gccncc.v.wscdns.com/gc/dlst02_1/index.m3u8#http://gcbsc.v.live.baishancdnx.cn/gc/dlst02_1/index.m3u8,tvmao-dalichongshengsisantahumian,,
+大理崇圣寺三塔远景,http://gcksc.v.kcdnvip.com/gc/dlst01_1/index.m3u8#http://gccncc.v.wscdns.com/gc/dlst01_1/index.m3u8#http://gcbsc.v.live.baishancdnx.cn/gc/dlst01_1/index.m3u8,tvmao-dalichongshengsisantayuanjing,,
+
 
 
 #EXTINF:-1 group-title="央视",CCTV1

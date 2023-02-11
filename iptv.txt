@@ -1,4 +1,4 @@
-风景,#genre#
+风景3,#genre#
 第一财经,http://a1live.livecdn.yicai.com/live/radio_tv.m3u8,tvming-CBNHD
 东方卫视,http://satellitepull.cnr.cn/live/wx32dfws/playlist.m3u8,tvming-SHDongFangTV
 CCTV1 综合,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8,tvming-NULL
@@ -10,4 +10,43 @@ CCTV13 新闻,https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8,tvming-NULL
 CCTV15 音乐,https://piccpndali.v.myalicdn.com/audio/cctv15_2.m3u8,tvming-NULL
 CCTV16 奥林匹克,https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8,tvming-NULL
 CGTN,http://stream.zeno.fm/ambvmys65rquv,tvming-CCTVEN
+
+风景4,#genre#
+第一财经,http://a1live.livecdn.yicai.com/live/radio_tv.m3u8,cntv-NULL
+东方卫视,http://satellitepull.cnr.cn/live/wx32dfws/playlist.m3u8,cntv-dongfang
+CCTV1 综合,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8,cntv-NULL
+CCTV2 财经,https://piccpndali.v.myalicdn.cdn.com/audio/cctv5plus_2.m3u8,cntv-NULL
+CCTV9 纪录,https://piccpndali.v.myalicdn.com/audio/cctv9_2.m3u8,cntv-NULL
+CCTV10 科教,https://piccpndali.v.myalicdn.com/audio/cctv10_2.m3u8,cntv-NULL
+CCTV12 社会与法,https://piccpndali.v.myalicdn.com/audio/cctv12_2.m3u8,cntv-NULL
+CCTV13 新闻,https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8,cntv-NULL
+CCTV15 音乐,https://piccpndali.v.myalicdn.com/audio/cctv15_2.m3u8,cntv-NULL
+CCTV16 奥林匹克,https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8,cntv-NULL
+CGTN,http://stream.zeno.fm/ambvmys65rquv,cntv-NULL
+
+风景2,#genre#
+第一财经,http://a1live.livecdn.yicai.com/live/radio_tv.m3u8,tvmao-diyicaijing
+东方卫视,http://satellitepull.cnr.cn/live/wx32dfws/playlist.m3u8,tvmao-dongfangweishi
+CCTV1 综合,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8,tvmao-cctv1
+CCTV2 财经,https://piccpndali.v.myalicdn.cdn.com/audio/cctv5plus_2.m3u8,tvmao-cctv2
+CCTV9 纪录,https://piccpndali.v.myalicdn.com/audio/cctv9_2.m3u8,tvmao-cctv9
+CCTV10 科教,https://piccpndali.v.myalicdn.com/audio/cctv10_2.m3u8,tvmao-cctv10
+CCTV12 社会与法,https://piccpndali.v.myalicdn.com/audio/cctv12_2.m3u8,tvmao-cctv12
+CCTV13 新闻,https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8,tvmao-cctv13
+CCTV15 音乐,https://piccpndali.v.myalicdn.com/audio/cctv15_2.m3u8,tvmao-cctv15
+CCTV16 奥林匹克,https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8,tvmao-cctv16
+CGTN,http://stream.zeno.fm/ambvmys65rquv,tvmao-cgtn
+
+风景1,#genre#
+第一财经,http://a1live.livecdn.yicai.com/live/radio_tv.m3u8,tvmao-diyicaijing,,
+东方卫视,http://satellitepull.cnr.cn/live/wx32dfws/playlist.m3u8,tvmao-dongfangweishi,,
+CCTV1 综合,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8,tvmao-cctv1,,
+CCTV2 财经,https://piccpndali.v.myalicdn.cdn.com/audio/cctv5plus_2.m3u8,tvmao-cctv2,,
+CCTV9 纪录,https://piccpndali.v.myalicdn.com/audio/cctv9_2.m3u8,tvmao-cctv9,,
+CCTV10 科教,https://piccpndali.v.myalicdn.com/audio/cctv10_2.m3u8,tvmao-cctv10,,
+CCTV12 社会与法,https://piccpndali.v.myalicdn.com/audio/cctv12_2.m3u8,tvmao-cctv12,,
+CCTV13 新闻,https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8,tvmao-cctv13,,
+CCTV15 音乐,https://piccpndali.v.myalicdn.com/audio/cctv15_2.m3u8,tvmao-cctv15,,
+CCTV16 奥林匹克,https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8,tvmao-cctv16,,
+CGTN,http://stream.zeno.fm/ambvmys65rquv,tvmao-cgtn,,
 

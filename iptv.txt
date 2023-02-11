@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实人文.png" group-title="其他",纪实人文
+#EXTINF:-1,tvg-id="上视纪实人文" group-title="其他",纪实人文
 http://117.169.121.162:6610/PLTV/88888910/224/3221225655/index.m3u8
-#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实人文.png" group-title="其他",纪实人文
+#EXTINF:-1,tvg-id="上视纪实人文" group-title="其他",纪实人文
 http://39.134.115.163:8080/TVOD/88888910/224/3221225655/index.m3u8
 #EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实人文.png" group-title="其他",纪实人文
 http://39.134.115.163:8080/TVOD/88888910/224/3221225654/index.m3u8

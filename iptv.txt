@@ -1,7 +1,23 @@
-🇨🇳［财经］,#genre# 
-第一财经,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8,tvmao-diyicaijing
-点掌财经,http://cclive.aniu.tv/live/anzb.m3u8,tvmao-dianzhangcaijing
-BLOOMBERG TV,https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8#https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8#https://bloomberg-bloombergtv-1-fr.samsung.wurl.com/manifest/playlist.m3u8#https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8?zshijd#https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8#https://bloomberg-bloomberg-1-fi.samsung.wurl.com/manifest/playlist.m3u8,tvmao-bloombergtv
-BLOOMBERG HT,https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8,tvmao-bloomberght
-BLOOMBERG QUICKTAKE,https://bloomberg-quicktake-1-fi.samsung.wurl.com/manifest/playlist.m3u8,tvmao-bloombergquicktake
-BLOOMBERG TV ASIA,http://210.210.155.37/dr9445/h/h03/index.m3u8,tvmao-bloombergtvasia
+#EXTM3U
+#EXTINF:-1,第一财经
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8
+#EXTINF:-1,点掌财经
+http://cclive.aniu.tv/live/anzb.m3u8
+#EXTINF:-1,Bloomberg TV
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Bloomberg TV
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Bloomberg TV
+https://bloomberg-bloombergtv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Bloomberg TV
+https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8?zshijd
+#EXTINF:-1,Bloomberg TV
+https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+#EXTINF:-1,Bloomberg TV
+https://bloomberg-bloomberg-1-fi.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Bloomberg HT
+https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
+#EXTINF:-1,Bloomberg Quicktake
+https://bloomberg-quicktake-1-fi.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Bloomberg TV Asia
+http://210.210.155.37/dr9445/h/h03/index.m3u8

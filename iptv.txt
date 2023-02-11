@@ -1,10 +1,7 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="CCTV-1高清" tvg-logo="https://iptv-pro.github.io/logo/CCTV1.png" group-title="央视频道",CCTV-1高清
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-name="CCTV-1 HD高码率" tvg-logo="https://iptv-pro.github.io/logo/CCTV1.png" group-title="央视频道",CCTV-1 HD高码率
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-name="CCTV-2高清" tvg-logo="https://iptv-pro.github.io/logo/CCTV2.png" group-title="央视频道",CCTV-2高清
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="US: CNBC World" tvg-logo="http://myserveriptv.com:2082/images/30b1731b0665d580cb0db089329597d9.png" group-title="United States",US: CNBC World
+http://sharkytv.com:2082/gJQeCDEUMQ/G5A73jP2aj7fbBy/208680
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox News HD" tvg-logo="http://myserveriptv.com:2082/images/5e1fb4b0c333684a1cb36aa239fb6ec8.png" group-title="United States",US: Fox News HD
+
 
 #EXTINF:-1 group-title="央视",CCTV1
 http://117.169.120.244:8080/wh7f454c46tw2520989601_203106496/hwrr.jx.chinamobile.com/PLTV/88888910/224/3221225618/index.m3u8?icpid=88888910&%3BRTS=1648965019&%3Bfrom=79102&%3Bocs=2_117.169.120.241_8080&%3Bhms_devid=1402&%3Bonline=1648965019&%3Bvqe=3

@@ -1,29 +1,13 @@
 风景,#genre#
-大理崇圣寺三塔湖面,http://gcksc.v.kcdnvip.com/gc/dlst02_1/index.m3u8,
-大理崇圣寺三塔远景,http://gcksc.v.kcdnvip.com/gc/dlst01_1/index.m3u8#http://gccncc.v.wscdns.com/gc/dlst01_1/index.m3u8#http://gcbsc.v.live.baishancdnx.cn/gc/dlst01_1/index.m3u8,
+第一财经,http://a1live.livecdn.yicai.com/live/radio_tv.m3u8,tvming-CBNHD
+东方卫视,http://satellitepull.cnr.cn/live/wx32dfws/playlist.m3u8,tvming-SHDongFangTV
+CCTV1 综合,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8,tvming-NULL
+CCTV2 财经,https://piccpndali.v.myalicdn.cdn.com/audio/cctv5plus_2.m3u8,tvming-NULL
+CCTV9 纪录,https://piccpndali.v.myalicdn.com/audio/cctv9_2.m3u8,tvming-NULL
+CCTV10 科教,https://piccpndali.v.myalicdn.com/audio/cctv10_2.m3u8,tvming-NULL
+CCTV12 社会与法,https://piccpndali.v.myalicdn.com/audio/cctv12_2.m3u8,tvming-NULL
+CCTV13 新闻,https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8,tvming-NULL
+CCTV15 音乐,https://piccpndali.v.myalicdn.com/audio/cctv15_2.m3u8,tvming-NULL
+CCTV16 奥林匹克,https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8,tvming-NULL
+CGTN,http://stream.zeno.fm/ambvmys65rquv,tvming-CCTVEN
 
-
-
-#EXTINF:-1 group-title="财经",第一财经
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="财经",点掌财经
-http://cclive.aniu.tv/live/anzb.m3u8
-
-
-🇨🇳［卫视］,#genre#
-东方卫视,http://39.134.115.163:8080/TVOD/88888910/224/3221225658/index.m3u8?/PLTV/.smil#http://39.134.115.163:8080/TVOD/88888910/224/3221225659/index.m3u8?/PLTV/.smil#http://39.135.138.59:18890/TVOD/88888910/224/3221225659/index.m3u8?/PLTV/.smil#http://39.135.138.60:18890/TVOD/88888910/224/3221225658/index.m3u8?/PLTV/.smil#http://hwrr.jx.chinamobile.com:8080/TVOD/88888888/224/3221225489/index.m3u8?fmt=ts2hls?/PLTV/.smil#http://hwrr.jx.chinamobile.com:8080/TVOD/88888888/224/3221225658/index.m3u8?/PLTV/.smil#http://hwrr.jx.chinamobile.com:8080/TVOD/88888888/224/3221225659/index.m3u8?/PLTV/.smil,tvmao-dongfangweishi,http://39.134.115.163:8080/TVOD/88888910/224/3221225658/index.m3u8?/PLTV/.smil,http://39.134.115.163:8080/TVOD/88888910/224/3221225658/index.m3u8?/PLTV/.smil
-
-#EXTINF:-1,大湾区卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226203/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226218/index.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226218/index.m3u8#http://111.20.33.70/PLTV/88888893/224/3221226218/index.m3u8 东方卫
-
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://iptv-pro.github.io/logo/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="网络频道",安徽卫视
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227178/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://iptv-pro.github.io/logo/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="网络频道",安徽卫视
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225844/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-
-大理崇圣寺三塔湖面,http://gcksc.v.kcdnvip.com/gc/dlst02_1/index.m3u8
-大理崇圣寺三塔湖面,http://gccncc.v.wscdns.com/gc/dlst02_1/index.m3u8
-大理崇圣寺三塔湖面,http://gcbsc.v.live.baishancdnx.cn/gc/dlst02_1/index.m3u8
-大理崇圣寺三塔远景,http://gcksc.v.kcdnvip.com/gc/dlst01_1/index.m3u8
-大理崇圣寺三塔远景,http://gccncc.v.wscdns.com/gc/dlst01_1/index.m3u8
-大理崇圣寺三塔远景,http://gcbsc.v.live.baishancdnx.cn/gc/dlst01_1/index.m3u8

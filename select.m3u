@@ -390,7 +390,8 @@ http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 http://183.207.255.188/live/program/live/shss8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="上海",生活时尚
 http://223.109.123.107/liveplay-kk.rtxapp.com/live/program/live/shss8m/8000000/mnf.m3u8
-
+#EXTINF:-1,tvg-id="阆中综合" tvg-name="阆中综合" tvg-logo="https://epg.112114.xyz/logo/阆中综合.png" group-title="上海",阆中综合
+http://36.152.7.104/livehkkp.chinamcache.com/live/lzxw_2000.m3u8
 
 #EXTINF:-1,tvg-id="US: Animal Planet" tvg-name="US: Animal Planet" tvg-logo="https://epg.112114.xyz/logo/US:ANIMALPLANET.png" group-title="纪录",US: Animal Planet
 http://sharkytv.com:2082/gJQeCDEUMQ/G5A73jP2aj7fbBy/225943
@@ -1236,6 +1237,8 @@ https://live.v1.mk/api/ghyx.php?id=CHCHD2_6000
 https://live.v1.mk/aishang/chcgqdy
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="电影",CHC高清电影
 http://baidu.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f//index.m3u8
+#EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="电影",CHC高清电影
+http://36.152.7.104/livehkkp.chinamcache.com/live/lnwsCHC-HDH265_4000.m3u8
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="电影",CHC动作电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="电影",CHC动作电影
@@ -1248,6 +1251,8 @@ https://live.v1.mk/api/ghyx.php?id=MotionHD_2000
 https://live.v1.mk/aishang/chcdzdy
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="电影",CHC动作电影
 http://baidu.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f//index.m3u8
+#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="电影",CHC动作电影
+http://36.152.7.104/livehkkp.chinamcache.com/live/wqCHCdzdyH265_4000.m3u8
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="电影",CHC家庭影院
 http://baidu.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="电影",CHC家庭影院
@@ -1258,6 +1263,8 @@ https://live.v1.mk/api/ghyx.php?id=CHCHD_2000
 https://live.v1.mk/aishang/chcjtyy
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="电影",CHC家庭影院
 http://baidu.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8
+#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="电影",CHC家庭影院
+http://36.152.7.104/livehkkp.chinamcache.com/live/jbtygqCHCjtyyH265_4000.m3u8
 #EXTINF:-1,tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://epg.112114.xyz/logo/黑莓电影.png" group-title="电影",黑莓电影
 http://39.135.7.4:6610/000000001000/1000000004000019624/index.m3u8?Contentid=1000000004000019624&livemode=1&stbId=3&channel-id=ystenlive
 #EXTINF:-1,tvg-id="NEWTV超级电影" tvg-name="NEWTV超级电影" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电影.png" group-title="电影",NewTV超级电影

@@ -24,10 +24,38 @@ https://piccpndali.v.myalicdn.com/audio/cctv15_2.m3u8
 https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="广播",CGTN
 http://stream.zeno.fm/ambvmys65rquv
-#EXTINF:-1,tvg-id="民谣音乐" tvg-name="民谣音乐" tvg-logo="https://epg.112114.xyz/logo/民谣音乐.png" group-title="广播",民谣音乐
-http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
+#EXTINF:-1 tvg-id="Today’s Hits" tvg-name="Today’s Hits" tvg-logo="https://cdn-web-us-west-2-tunein-com.s3-us-west-2.amazonaws.com/assets/img/shared/tiles/todays-hits-small.jpg" group-title="广播" radio="true",Today’s Hits
+http://rfcmedia.streamguys1.com/MusicPulsePremium.mp3
+#EXTINF:-1 tvg-id="Pop Hits" tvg-name="Pop Hits" tvg-logo="https://live.fanmingming.com/radio/newpophits.png" group-title="广播" radio="true",Pop Hits
+http://rfcmedia.streamguys1.com/newpophitspremium.mp3
+#EXTINF:-1 tvg-id="Alternative Hits" tvg-name="Alternative Hits" tvg-logo="https://cdn-profiles.tunein.com/s249914/images/logod.png?t=1" group-title="广播" radio="true",Alternative Hits
+http://rfcmedia.streamguys1.com/alternativehitspremium.mp3
+#EXTINF:-1 tvg-id="Country Hits" tvg-name="Country Hits" tvg-logo="https://cdn-profiles.tunein.com/s249981/images/logog.jpg?t=2" group-title="广播" radio="true",Country Hits
+http://rfcmedia.streamguys1.com/countryhitspremium.mp3
+#EXTINF:-1 tvg-id="Country Roads" tvg-name="Country Roads" tvg-logo="https://cdn-profiles.tunein.com/s224628/images/logog.jpg?t=4" group-title="广播" radio="true",Country Roads
+http://rfcmedia.streamguys1.com/countryroadspremium.mp3
+#EXTINF:-1 tvg-id="Relax & Unwind" tvg-name="Relax & Unwind" tvg-logo="https://cdn-profiles.tunein.com/s249937/images/logog.jpg?t=2" group-title="广播" radio="true",Relax & Unwind
+http://rfcmedia.streamguys1.com/relaxationpremium.mp3
+#EXTINF:-1 tvg-id="Smooth Jazz" tvg-name="Smooth Jazz" tvg-logo="https://cdn-profiles.tunein.com/s249973/images/logog.jpg?t=162282" group-title="广播" radio="true",Smooth Jazz
+http://rfcmedia.streamguys1.com/smoothjazzpremium.mp3
+#EXTINF:-1 tvg-id="The Hit List" tvg-name="The Hit List" tvg-logo="https://cdn-radiotime-logos.tunein.com/s291088g.png" group-title="广播" radio="true",The Hit List
+http://rfcmedia.streamguys1.com/srhitlist.mp3
+#EXTINF:-1 tvg-id="Dance One" tvg-name="Dance One" tvg-logo="https://cdn-profiles.tunein.com/s303095/images/logod.png?t=158589" group-title="广播" radio="true",Dance One
+http://rfcmedia.streamguys1.com/srdanceone.mp3
+#EXTINF:-1 tvg-id="Disco Beats" tvg-name="Disco Beats" tvg-logo="http://cdn-profiles.tunein.com/g385/images/logod.png?t=636564760576470000" group-title="广播" radio="true",Disco Beats
+http://rfcmedia.streamguys1.com/srdiscobeats.mp3
+#EXTINF:-1 tvg-id="Today's Country Hits" tvg-name="Today's Country Hits" tvg-logo="https://cdn-profiles.tunein.com/s249981/images/logog.jpg?t=2" group-title="广播" radio="true",Today's Country Hits
+http://rfcmedia.streamguys1.com/srtodayscountryhits.mp3
+#EXTINF:-1 tvg-id="TED Talks" tvg-name="TED Talks" tvg-logo="https://cdn-radiotime-logos.tunein.com/s293704g.png" group-title="广播" radio="true",Coffee House ☕️
+http://rfcmedia.streamguys1.com/coffeehousepremium.mp3
+#EXTINF:-1 tvg-id="TED Talks" tvg-name="TED Talks" tvg-logo="https://live.fanmingming.com/radio/tedtalks.png" group-title="广播" radio="true",TED Talks
+http://tunein.streamguys1.com/TEDTalks
+#EXTINF:-1 tvg-id="古典音乐台" tvg-name="古典音乐台" tvg-logo="https://epg.112114.xyz/logo/古典音乐台.png" group-title="广播" radio="true",古典音乐台
+http://play.redefine.ltd/Stream2/FM1058-2.m3u8
 #EXTINF:-1,tvg-id="天籁古典" tvg-name="天籁古典" tvg-logo="https://epg.112114.xyz/logo/天籁古典.png" group-title="广播",天籁古典
 http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
+#EXTINF:-1,tvg-id="民谣音乐" tvg-name="民谣音乐" tvg-logo="https://epg.112114.xyz/logo/民谣音乐.png" group-title="广播",民谣音乐
+http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
 #EXTINF:-1,tvg-id="摇滚天空" tvg-name="摇滚天空" tvg-logo="https://epg.112114.xyz/logo/摇滚天空.png" group-title="广播",摇滚天空
 http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
 #EXTINF:-1,tvg-id="国乐悠扬" tvg-name="国乐悠扬" tvg-logo="https://epg.112114.xyz/logo/国乐悠扬.png" group-title="广播",国乐悠扬
@@ -38,6 +66,16 @@ http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 http://iptv.cooltv.top/tv/fhxaudio.php?id=fhzw
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="广播",凤凰香港
 http://iptv.cooltv.top/tv/fhxaudio.php?id=fhhk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/环球资讯广播.png" group-title="广播" radio="true",CRI环球资讯广播
+https://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/华语环球广播.png" group-title="广播" radio="true",CRI华语环球广播
+http://sk.cri.cn/hyhq.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/chinaplusradio.png" group-title="广播" radio="true",CRI英语环球广播
+http://sk.cri.cn/am846.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/chinaplusradio.png" group-title="广播" radio="true",CRI外语教学广播 
+http://sk.cri.cn/am1008.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/p38821d.png" group-title="广播" radio="true",CRI粤语国际
+http://sk.cri.cn/hxfh.m3u8
 #EXTINF:-1,tvg-id="AsiaFM 亚洲热歌台" tvg-name="AsiaFM 亚洲热歌台" tvg-logo="https://epg.112114.xyz/logo/ASIAFM亚洲热歌台.png" group-title="广播",AsiaFM 亚洲热歌台
 http://asiafm.net:8000/asiafmhot
 #EXTINF:-1,tvg-id="AsiaFM 亚洲音乐台" tvg-name="AsiaFM 亚洲音乐台" tvg-logo="https://epg.112114.xyz/logo/ASIAFM亚洲音乐台.png" group-title="广播",AsiaFM 亚洲音乐台
@@ -132,30 +170,6 @@ https://mediaprima.rastream.com/mediaprima-onefm
 https://astro1.rastream.com/myfm
 #EXTINF:-1,tvg-id="Melody" tvg-name="Melody" tvg-logo="https://epg.112114.xyz/logo/MELODY.png" group-title="广播",Melody
 https://astro3.rastream.com/melody
-#EXTINF:-1,tvg-id="HITS" tvg-name="HITS" tvg-logo="https://epg.112114.xyz/logo/HITS.png" group-title="广播",Today's Hits
-http://rfcmedia.streamguys1.com/MusicPulsePremium.mp3
-#EXTINF:-1,tvg-id="HITS" tvg-name="HITS" tvg-logo="https://epg.112114.xyz/logo/HITS.png" group-title="广播",Today's Country Hits
-http://rfcmedia.streamguys1.com/srtodayscountryhits.mp3
-#EXTINF:-1,tvg-id="HITS" tvg-name="HITS" tvg-logo="https://epg.112114.xyz/logo/HITS.png" group-title="广播",Pop Hits
-http://rfcmedia.streamguys1.com/newpophitspremium.mp3
-#EXTINF:-1,tvg-id="HITS" tvg-name="HITS" tvg-logo="https://epg.112114.xyz/logo/HITS.png" group-title="广播",Alternative Hits
-http://rfcmedia.streamguys1.com/alternativehitspremium.mp3
-#EXTINF:-1,tvg-id="HITS" tvg-name="HITS" tvg-logo="https://epg.112114.xyz/logo/HITS.png" group-title="广播",Country Hits
-http://rfcmedia.streamguys1.com/countryhitspremium.mp3
-#EXTINF:-1,tvg-id="Country Roads" tvg-name="Country Roads" tvg-logo="https://epg.112114.xyz/logo/COUNTRYROADS.png" group-title="广播",Country Roads
-http://rfcmedia.streamguys1.com/countryroadspremium.mp3
-#EXTINF:-1,tvg-id="Relax & Unwind" tvg-name="Relax & Unwind" tvg-logo="https://epg.112114.xyz/logo/RELAX&UNWIND.png" group-title="广播",Relax & Unwind
-http://rfcmedia.streamguys1.com/relaxationpremium.mp3
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="广播",Smooth Jazz
-http://rfcmedia.streamguys1.com/smoothjazzpremium.mp3
-#EXTINF:-1,tvg-id="The Hit List" tvg-name="The Hit List" tvg-logo="https://epg.112114.xyz/logo/THEHITLIST.png" group-title="广播",The Hit List
-http://rfcmedia.streamguys1.com/srhitlist.mp3
-#EXTINF:-1,tvg-id="Dance One" tvg-name="Dance One" tvg-logo="https://epg.112114.xyz/logo/DANCEONE.png" group-title="广播",Dance One
-http://rfcmedia.streamguys1.com/srdanceone.mp3
-#EXTINF:-1,tvg-id="Disco Beats" tvg-name="Disco Beats" tvg-logo="https://epg.112114.xyz/logo/DISCOBEATS.png" group-title="广播",Disco Beats
-http://rfcmedia.streamguys1.com/srdiscobeats.mp3
-#EXTINF:-1,tvg-id="Coffee House" tvg-name="Coffee House" tvg-logo="https://epg.112114.xyz/logo/COFFEEHOUSE.png" group-title="广播",Coffee House
-http://rfcmedia.streamguys1.com/coffeehousepremium.mp3
 #EXTINF:-1,tvg-id="Money FM" tvg-name="Money FM" tvg-logo="https://epg.112114.xyz/logo/MONEYFM.png" group-title="广播",Money FM
 http://22253.live.streamtheworld.com/MONEY_893.mp3
 #EXTINF:-1,tvg-id="RFI法国国际广播电台" tvg-name="RFI法国国际广播电台" tvg-logo="https://epg.112114.xyz/logo/RFI法国国际广播电台.png" group-title="广播",RFI法国国际广播电台
@@ -164,6 +178,8 @@ https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
 http://rfichinois96k.ice.infomaniak.ch/rfichinois-96k.mp3
 #EXTINF:-1,tvg-id="美国之音" tvg-name="美国之音" tvg-logo="https://epg.112114.xyz/logo/美国之音.png" group-title="广播",美国之音
 http://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/自由亚洲电台.png" group-title="广播" radio="true",自由亚洲电台
+http://rfimonde-lh.akamaihd.net/i/rfimonde_1@412456/index_128_a-p.m3u8
 #EXTINF:-1,tvg-id="阿里郎电台" tvg-name="阿里郎电台" tvg-logo="https://epg.112114.xyz/logo/阿里郎电台.png" group-title="广播",阿里郎电台
 http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/arirang_3ch_audio/playlist.m3u8
 #EXTINF:-1,tvg-id="ALJAZEERA" tvg-name="ALJAZEERA" tvg-logo="https://epg.112114.xyz/logo/ALJAZEERA.png" group-title="广播",Al Jazeera
@@ -1320,14 +1336,30 @@ http://159.75.85.63:8765/telegram
 http://159.75.85.63:8765/telegram
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",明珠台
 http://c-leung.homeip.net:8012/bysid/2
+#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",明珠台
+http://c-leung.homeip.net:8012/bysid/2
+http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8
+#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",明珠台
+https://cdn.hklive.tv/xxxx/84/index.m3u8
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
 http://2022.stream-link.org/playlist/tvb_jade
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
 http://23.237.10.66:16410?%241280x720
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
+http://23.237.10.66:16106/zhiboyuandakaTV/tvbjade7367895023.m3u8
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
 http://r.jdshipin.com/62WM7
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
 http://r.jdshipin.com/n90gt
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
+http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
+http://50.7.168.234:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
+https://cdn.hklive.tv/xxxx/81/index.m3u8
+#EXTINF:-1,tvg-id="翡翠华丽" tvg-name="翡翠华丽" tvg-logo="https://epg.112114.xyz/logo/翡翠华丽.png" group-title="港澳台",翡翠华丽
+http://23.237.10.66:16410
+
 #EXTINF:-1,tvg-id="华丽台" tvg-name="华丽台" tvg-logo="https://epg.112114.xyz/logo/华丽台.png" group-title="港澳台",华丽台
 http://23.237.10.66:16410
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰中文
@@ -1363,11 +1395,13 @@ http://anren.live/HK/BiIOU11uLA.m3u8
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS亚洲
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS亚洲
 http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="港澳台",TVBS新闻
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="港澳台",TVBS新闻
-http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS HD
 http://103.68.63.37:8278/tvbs/playlist.m3u8
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS HD

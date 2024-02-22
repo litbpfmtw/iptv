@@ -1,5 +1,5 @@
 财经广播,#genre#
-第一财经广播,http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
+第一财经电视,http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
 第一财经广播,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 
 港澳台,#genre#

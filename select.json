@@ -1,0 +1,46 @@
+{
+    "live": [
+        {
+            "itemid": "uid0000",
+            "name": "#EXTM3U url-tvg=\\\"http://epg.51zmt.top:8000/e.xml",
+            "num": "00001",
+            "urllist": "https://epg.112114.xyz/pp.xml\\\""
+        },
+        {
+            "itemid": "uid0001",
+            "name": "#EXTINF:-1 tvg-id=\\\"SG: CNA\\\" tvg-name=\\\"SG: CNA\\\" tvg-logo=\\\"https://epg.112114.xyz/logo/SG:CNA.png\\\" group-title=\\\"国际\\\"",
+            "num": "00002",
+            "urllist": "SG: CNA"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "#EXTINF:-1 tvg-id=\\\"SG: CNA\\\" tvg-name=\\\"SG: CNA\\\" tvg-logo=\\\"https://epg.112114.xyz/logo/SG:CNA.png\\\" group-title=\\\"国际\\\"",
+            "num": "00003",
+            "urllist": "SG: CNA"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "#EXTINF:-1 tvg-id=\\\"ALJAZEERA\\\" tvg-name=\\\"ALJAZEERA\\\" tvg-logo=\\\"https://epg.112114.xyz/logo/ALJAZEERA.png\\\" group-title=\\\"国际\\\"",
+            "num": "00004",
+            "urllist": "US: Al Jazeera"
+        }
+    ],
+    "type": [
+        {
+            "id": "uid0000",
+            "name": "=未分组="
+        },
+        {
+            "id": "uid0001",
+            "name": "https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8?zshijd"
+        },
+        {
+            "id": "uid0002",
+            "name": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8"
+        },
+        {
+            "id": "uid0003",
+            "name": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8"
+        }
+    ]
+}
